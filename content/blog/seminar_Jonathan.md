@@ -1,6 +1,6 @@
 +++
 title = "[Seminar] Dr. Jonathan Guerrette"
-date = 2019-01-10T16:49:47+09:00
+date = 2019-01-10T12:49:47+09:00
 categories = ["Seminar"]
 banner = "img/placeholder.png"
 icon = "microphone"
