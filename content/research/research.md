@@ -40,7 +40,7 @@ The biometeorology laboratory pursues (1) a nationwide sustainable water resourc
 
 <br>
 
-#### Climate Theory Laboratory [(http://web.yonsei.ac.kr/climate)](http://web.yonsei.ac.kr/climate)
+#### Climate Theory Laboratory [(http://climatelab.yonsei.ac.kr)](http://climatelab.yonsei.ac.kr)
 We are seeking the principal mechanisms on the past, present, and future climate variability and change. Major research concerns involve understanding of the earth climate changing mechanism from the pale-climate to the future climate, and of the intraseasonal-to-multi-decadal variability.
 
 <br>
