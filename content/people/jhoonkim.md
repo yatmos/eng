@@ -7,7 +7,7 @@ email = "jkim2@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5682"
 room = "Atmospheric Radiation Laboratory / Science Hall #545"
-web = "http://web.yonsei.ac.kr/oasis"
+web = "http://atrad.yonsei.ac.kr"
 weight = 4
 +++
 

@@ -25,7 +25,7 @@ In APDAL, inherent predictability of weather and climate, model and data assimil
 
 <br>
 
-#### Atmospheric Radiation Laboratory [(http://web.yonsei.ac.kr/oasis)](http://web.yonsei.ac.kr/oasis)
+#### Atmospheric Radiation Laboratory [(http://atrad.yonsei.ac.kr)](http://web.yonsei.ac.kr/oasis)
 Main focus is on the observation of atmospheric radiative energy and monitoring of ozone layer under the framework of GAW, in this laboratory. Active participation in satellite remote sensing project includes the retrieval of aerosol optical properties from COMS and satellite application projects at Korea Aerospace Research Institute.
 
 <br>

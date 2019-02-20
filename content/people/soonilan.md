@@ -7,7 +7,7 @@ email = "sian@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5684"
 room = "Climate Theory Laboratory / Science Hall #538"
-web = "http://web.yonsei.ac.kr/climate"
+web = "http://climatelab.yonsei.ac.kr"
 weight = 6
 +++
 
