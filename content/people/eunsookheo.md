@@ -15,7 +15,6 @@ weight = 40
 + El Nino-Southern Oscillation (ENSO)
 + Arctic Sea ice
 + Feedback processes
-+ Pacific Decadal Oscillation (PDO)
 
 #### Education
  + **M.Sc** (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea
