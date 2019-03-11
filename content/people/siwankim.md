@@ -7,7 +7,7 @@ email = "siwan.kim@yonsei.ac.kr"
 job = "Research Professor"
 phone = ""
 room = "Science Hall 549"
-web =  ""
+web =  "http://atrad.yonsei.ac.kr/"
 weight = 20
 +++
 

@@ -7,7 +7,7 @@ email = "chk@yonsei.ac.kr"
 job = "Professor Emeritus (1971.2~1999.2)"
 phone = "02-2123-2574"
 room = "Science Hall #701"
-web = "http://web.yonsei.ac.kr/oasis/"
+web = "http://atrad.yonsei.ac.kr/"
 weight = 12
 +++
 
