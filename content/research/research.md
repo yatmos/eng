@@ -30,7 +30,7 @@ Main focus is on the observation of atmospheric radiative energy and monitoring 
 
 <br>
 
-#### Atmospheric Remote Sensing Laboratory [(http://web.yonsei.ac.kr/aremote)](http://web.yonsei.ac.kr/aremote)
+#### Atmospheric Remote Sensing Laboratory [(http://arsl.yonsei.ac.kr)](http://arsl.yonsei.ac.kr)
 Our research focuses on satellite remote sensing of clouds and precipitation that are key components in the global water and energy cycles. Current research aims to develop precipitation retrieval algorithms for various microwave, visible and infrared sensors. Our research also involves the use of spaceborne- and ground-based observations and cloud-radiative transfer models to understand radiative and physical characteristics of precipitation systems. The other research area includes satellite mission planning and applications of remotely-sensed data to climate study.
 
 <br>
