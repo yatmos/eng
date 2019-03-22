@@ -44,6 +44,7 @@ weight = 4
 
 
 #### Awards
++ 2019. 1        :       Grand Prize,  Outstanding Ph.D. Thesis Advisor Award, Korea Academy of Science and Technology(KAST)
 + 2018. 2        :       Contribution Award, Yonsei University
 + 2018. 1        :       Scientist of the Month, Korea Research Foundation(NRF), Ministry of Science, Technology and ICT
 + 2017. 6        :       NASA Group Achievement Award, NASA
@@ -70,3 +71,4 @@ weight = 4
 + Jeong, Ukkyo, Jhoon Kim, Hanlim Lee, Yun Gon Lee (2017), Assessing the effect of long-range pollutant transport on air quality in Seoul using the conditional potential source contribution function method, Atmospheric Environment, 150, 33-44, doi: 10.1016/j.atmosenv.2016.11.017.
 + Kim, J., J. Lee, H.C. Lee, A. Higurashi, T. Takemura, and C.H. Song (2007), Consistency of the aerosol type classification from satellite remote sensing during the ABC EAREX campaign, J. Geophys. Res., 112, D22S33, doi:10.1029/2006JD008201
 + Kim, J., C.J. Park, K.Y. Lee, D.H. Lee, Y.O. Kim, H.K. Cho, G.R. Cho, and J. H. Park (1997), Rocket soundings of ozone profiles in the stratosphere over the Korean Peninsula, J. Geophys. Res., 102, 16121.
++ More on http://atrad.yonsei.ac.kr/bbs/board.php?tbl=bbs31
