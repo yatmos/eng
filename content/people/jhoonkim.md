@@ -30,11 +30,12 @@ weight = 4
 + 2016 - Present  : Guest Editor, Atmospheric Measurement Technique(AMT)
 + 2017 - 2020    :   Commissioner, IRC (International Radiation Commission)
 + 2016 - present      :   Editorial Board, Advances in Atmospheric Sciences(AAS)
-+ 2016 - 2018      : Editorial Board, Asia Pacific Journal of Atmospheric Sciences(APAS)
-+ 2014-2015      :   Deputy Director, Institute of Natural Sciences(INS), Yonsei University
++ 2016 - 2018    : Editorial Board, Asia Pacific Journal of Atmospheric Sciences(APAS)
++ 2016 - 2017    : Visiting Scientist, Atmospheric Measurement Group, Harvard Smithonian Center for Astrophysics
++ 2014 - 2015    :   Deputy Director, Institute of Natural Sciences(INS), Yonsei University
 + 2013 - 2017    :   Member, NDACC (Network for the Detection of Atmospheric Composition Change) Satellite WG
-+ 2012 - 2020    :   Member,  IO3C (International Ozone Commision), 위원
-+ 2010 - Present :  P.I., GEMS (Geostationary Environment Monitoring Spectrometer) Mission
++ 2012 - 2020    :   Member,  IO3C (International Ozone Commision)
++ 2012 - Present :  P.I., GEMS (Geostationary Environment Monitoring Spectrometer) Mission
 + 2010 - present     :   Member,  CEOS (Committee on Earth Observing Satellites) ACC
 + 2011 - 2012    :   Chair, MEST-NASA Cooperation System in Space, Earth Science Subcommittee
 + 2009 - 2010    :  Visiting Independent Advisor, NASA Jet Propulsion Laboratory, CalTech; Visiting Scholar, UCLA
