@@ -1,5 +1,5 @@
 +++
-title = "[Seminar] Director, Jung-Hwan Lee"
+title = "[Seminar] Dr. Jung-Hwan Lee"
 categories = ["Seminar"]
 banner = "img/placeholder.png"
 icon = "microphone"
@@ -7,7 +7,7 @@ date = 2019-03-28T06:48:02+09:00
 +++
 ### 기상청 관측망(기상레이더 포함) 현황과 기상레이더 향후 계획
 <br>
-#### Im-Seok Chang (Director, Air Quality Forecasting Center, National Institute of Environmental Research)
+#### Dr. Jung-Hwan Lee (Director, Air Quality Forecasting Center, National Institute of Environmental Research)
 #### April 2, 2019 (Tuesday) 16:00
 #### Science Hall #553
 <br>

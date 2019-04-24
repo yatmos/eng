@@ -1,5 +1,5 @@
 +++
-title = "[Seminar] Director-General, Jae-won Lee"
+title = "[Seminar] Dr. Jae-won Lee"
 categories = ["Seminar"]
 banner = "img/placeholder.png"
 icon = "microphone"
@@ -7,7 +7,7 @@ date = 2019-04-15T03:48:02+09:00
 +++
 ### 항공기상업무: 어제, 오늘 그리고 내일
 <br>
-#### Jae-won Lee (Director-General, Aviation Meteorological Office)
+#### Dr. Jae-won Lee (Director-General, Aviation Meteorological Office)
 #### April 16, 2019 (Tuesday) 16:00
 #### Science Hall #553
 <br>

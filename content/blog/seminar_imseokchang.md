@@ -1,5 +1,5 @@
 +++
-title = "[Seminar] Director, Im-Seok Chang"
+title = "[Seminar] Dr. Im-Seok Chang"
 categories = ["Seminar"]
 banner = "img/placeholder.png"
 icon = "microphone"
@@ -7,7 +7,7 @@ date = 2019-03-22T06:48:02+09:00
 +++
 ### 초미세먼지 현황과 2019년 고농도 사례
 <br>
-#### Im-Seok Chang (Director, Air Quality Forecasting Center, National Institute of Environmental Research)
+#### Dr. Im-Seok Chang (Director, Air Quality Forecasting Center, National Institute of Environmental Research)
 #### March 26, 2019 (Tuesday) 16:00
 #### Science Hall #553
 <br>
