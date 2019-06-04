@@ -45,7 +45,7 @@ weight = 4
 
 
 #### Awards
-+ 2019. 4        :       Medal of Science and Technology, President, Republic of Korea
++ 2019. 4        :       Medal of Honor in Science and Technology, President, Republic of Korea
 + 2019. 1        :       Grand Prize,  Outstanding Ph.D. Thesis Advisor Award, Korea Academy of Science and Technology(KAST)
 + 2018. 2        :       Contributed Professor Award, Yonsei University
 + 2018. 1        :       Scientist of the Month, Korea Research Foundation(NRF), Ministry of Science, Technology and ICT
