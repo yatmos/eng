@@ -25,7 +25,6 @@ weight = 4
 #### Professional Experience
 + 2003 - Present:  Professor, Department of Atmospheric Sciences, Yonsei University
 + 1991 - 2003    :   Principal Researcher, Senior Researcher, Korea Aerospace Research Institute (KARI)
-
 + 2018 - Present  : Associate Editor, Remote Sensing
 + 2016 - Present  : Guest Editor, Atmospheric Measurement Technique(AMT)
 + 2017 - 2020    :   Commissioner, IRC (International Radiation Commission)
