@@ -46,11 +46,19 @@ weight = 4
 #### Awards
 + 2019. 4        :       Medal of Honor in Science and Technology, President, Republic of Korea
 + 2019. 1        :       Grand Prize,  Outstanding Ph.D. Thesis Advisor Award, Korea Academy of Science and Technology(KAST)
++ 2019. 2        :       Best Lecture Award, Yonsei University
 + 2018. 2        :       Contributed Professor Award, Yonsei University
++ 2018. 2        :       Outstanding Achievement Award in Research, Yonsei University
 + 2018. 1        :       Scientist of the Month, Korea Research Foundation(NRF), Ministry of Science, Technology and ICT
 + 2017. 6        :       NASA Group Achievement Award, NASA
++ 2017. 2        :       Outstanding Achievement Award in Research, Yonsei University
++ 2016. 2        :       Outstanding Achievement Award in Research, Yonsei University
++ 2015. 2        :       Outstanding Achievement Award in Research, Yonsei University
 + 2014. 6        :       Grand Prize, Environmental Technology of the Year, Korea Environment Industry & Technology Institute (KEITI)   
++ 2014. 2        :       Outstanding Achievement Award in Research, Yonsei University
++ 2013. 2        :       Best Lecture Award, Yonsei University
 + 2012. 11       :      Grand Prize,  Outstanding Ph.D. Thesis Advisor Award, Korea Academy of Science and Technology(KAST)
++ 2012. 2        :       Best Lecture Award, Yonsei University
 + 2010, 2004   :      Citation, SPIE (The International Society for Optical Engineering)
 + 2009. 3        :       Citation, The President of Republic of Korea
 + 2008. 12       :      Citation, Minister of Environment, Republic of Korea
