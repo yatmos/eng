@@ -13,7 +13,7 @@ weight = 50
 
 #### Research interests
 + Aviation Turbulence
-+ Near Cloud Turbulence
++ Near Cloud Turbulence !
 
 #### Education
  + **B.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
