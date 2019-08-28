@@ -19,7 +19,7 @@ weight = 60
 + **B.Sc** (2013) in Science Education, Ewha Womans University, Seoul, Korea
 
 #### Awards
-+ Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the Brain Korea 21 plus (BK21+) project, Yonsei University in 24 February 2018
++ Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the Brain Korea 21 plus (BK21+) project, Yonsei University in 22 February 2018
 + Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the Brain Korea 21 plus (BK21+) project, Yonsei University in 24 February 2017
 + Graduate school of Yonsei University research scholarship grants in 2017
 
