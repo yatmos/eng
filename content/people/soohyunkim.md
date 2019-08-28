@@ -19,8 +19,11 @@ weight = 60
 + **B.Sc** (2013) in Science Education, Ewha Womans University, Seoul, Korea
 
 #### Awards
++ Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the Brain Korea 21 plus (BK21+) project, Yonsei University in 22 February 2018
++ Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the Brain Korea 21 plus (BK21+) project, Yonsei University in 24 February 2017
 + Graduate school of Yonsei University research scholarship grants in 2017
 
 #### Publications
-+ Kim, S.-H., and H.-Y. Chun (2016), Aviation turbulence encounters detected from aircraft observations: spatiotemporal characteristics and application to Korean Aviation Turbulence, Meteorol. Appl., 23, 594-604.
++ Kim, S.-H., H.-Y. Chun, R. D. Sharman, and S. B. Trier (2019), Development of near-cloud turbulence diagnostics based on a convective gravity-wave drag parameterization. J. Appl. Meteor. Climatol., 58, 1725-1750.
 + Kim, S.-H., H.-Y. Chun, and P. W. Chan (2017), Comparison of turbulence indicators obtained from in situ flight data, J. Appl. Meteor. Climatol., 56, 1609-1623.
++ Kim, S.-H., and H.-Y. Chun (2016), Aviation turbulence encounters detected from aircraft observations: spatiotemporal characteristics and application to Korean Aviation Turbulence, Meteorol. Appl., 23, 594-604.

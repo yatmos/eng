@@ -19,6 +19,7 @@ weight = 40
  + **B.Sc** (2011) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Awards
+ + (2019.2.26) Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the BK21+ project, Yonsei University
  + (2018.3.23) The award of director-general of aviation meteorological office
  + (2014.10.14) Best paper presentation award in Korean meteorological society fall meeting
 
