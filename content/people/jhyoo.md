@@ -19,5 +19,10 @@ weight = 40
 + **B.Sc** (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Awards
++ Global Ph.D Fellowship, National Research Foundation of Korea (2019.08.20)
++ Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the BK21+ project, Yonsei University (2019 .02. 26)
++ Best Paper Award for Master student in Yonsei University (2018. 11. 20)
+
 
 #### Publications
++ Yoo, J.-H., T. Choi, H.-Y. Chun, Y.-H. Kim, I.-S. Song, and B.-G. Song, 2018: Inertia-gravity waves revealed in radiosonde data at Jang Bogo Station, Antarctica (74° 37′ S, 164° 13′ E): 1. Characteristics, energy, and momentum flux. J. Geophys. Res. Atmos.. 123(23), 13,305-13,331.
