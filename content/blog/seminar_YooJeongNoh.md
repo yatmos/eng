@@ -9,7 +9,7 @@ icon = "microphone"
 
 <br>
 #### Dr. Yoo-Jeong Noh (NOAA Cooperative Institute for Research in the Atmosphere (CIRA)/Colorado State University)
-#### September 12, 2019 (Tuesday) 16:00
+#### September 03, 2019 (Tuesday) 16:00
 #### Science Hall #553
 <br>
 #### Abstract
