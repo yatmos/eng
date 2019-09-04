@@ -21,6 +21,7 @@ hasCJKLanguage = true
 paginate = 20
 summarylength = 20
 
+publishDir = "docs"
 [menu]
 
 # Main menu
