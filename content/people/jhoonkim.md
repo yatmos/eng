@@ -23,42 +23,36 @@ weight = 4
 + **B.S.** (1986)  Atmospheric Sciences, Seoul National University, Seoul, Korea
 
 #### Professional Experience
-+ 2003 - Present:  Professor, Department of Atmospheric Sciences, Yonsei University
++ 2003 - present:  Professor, Department of Atmospheric Sciences, Yonsei University
 + 1991 - 2003    :   Principal Researcher, Senior Researcher, Korea Aerospace Research Institute (KARI)
-+ 2018 - Present  : Associate Editor, Remote Sensing
-+ 2016 - Present  : Guest Editor, Atmospheric Measurement Technique(AMT)
++ 2019 - 2021    :   Member, Committee of Science and Technology, National Council on Climate and Environment (NCCA)
++ 2018 - present  : Associate Editor, Remote Sensing
++ 2017 - present :  Member, Science Advisory Group (SAG), WMO GAW Urban Research Meteorology and Environment (GURME)
++ 2016 - present  : Guest Editor, Atmospheric Measurement Technique(AMT)
++ 2014 - present : Member, WHO Global Platform for Air Quality and Public Health
 + 2017 - 2020    :   Commissioner, IRC (International Radiation Commission)
 + 2016 - present      :   Editorial Board, Advances in Atmospheric Sciences(AAS)
 + 2016 - 2018    : Editorial Board, Asia Pacific Journal of Atmospheric Sciences(APAS)
 + 2016 - 2017    : Visiting Scientist, Atmospheric Measurement Group, Harvard Smithonian Center for Astrophysics
 + 2014 - 2015    :   Deputy Director, Institute of Natural Sciences(INS), Yonsei University
-+ 2013 - 2017    :   Member, NDACC (Network for the Detection of Atmospheric Composition Change) Satellite WG
 + 2012 - 2020    :   Member,  IO3C (International Ozone Commision)
-+ 2012 - Present :  P.I., GEMS (Geostationary Environment Monitoring Spectrometer) Mission
++ 2012 - present :  P.I., GEMS (Geostationary Environment Monitoring Spectrometer) Mission
 + 2010 - present     :   Member,  CEOS (Committee on Earth Observing Satellites) ACC
-+ 2011 - 2012    :   Chair, MEST-NASA Cooperation System in Space, Earth Science Subcommittee
 + 2009 - 2010    :  Visiting Independent Advisor, NASA Jet Propulsion Laboratory, CalTech; Visiting Scholar, UCLA
-+ 2009 - 2012    :  Cochair, NIER (National Institute of Environmental Research) - NASA Technical Group on Atmospheric Composition Measurements
                              from Geostationary Satellites
 + 2008 - 2012    :  Cochair, Working Group 8, Commission VIII, ISPRS (International Society for Photogrammetry and Remote Sensing)
 
 
 #### Awards
++ 2019, 2013, 2012 :     Best Lecture Award, Yonsei University
++ 2018, 2017, 2016, 2015, 2014 : Outstanding Achievement Award in Research, Yonsei University
 + 2019. 4        :       Medal of Honor in Science and Technology, President, Republic of Korea
 + 2019. 1        :       Grand Prize,  Outstanding Ph.D. Thesis Advisor Award, Korea Academy of Science and Technology(KAST)
-+ 2019. 2        :       Best Lecture Award, Yonsei University
 + 2018. 2        :       Contributed Professor Award, Yonsei University
-+ 2018. 2        :       Outstanding Achievement Award in Research, Yonsei University
 + 2018. 1        :       Scientist of the Month, Korea Research Foundation(NRF), Ministry of Science, Technology and ICT
 + 2017. 6        :       NASA Group Achievement Award, NASA
-+ 2017. 2        :       Outstanding Achievement Award in Research, Yonsei University
-+ 2016. 2        :       Outstanding Achievement Award in Research, Yonsei University
-+ 2015. 2        :       Outstanding Achievement Award in Research, Yonsei University
 + 2014. 6        :       Grand Prize, Environmental Technology of the Year, Korea Environment Industry & Technology Institute (KEITI)   
-+ 2014. 2        :       Outstanding Achievement Award in Research, Yonsei University
-+ 2013. 2        :       Best Lecture Award, Yonsei University
 + 2012. 11       :      Grand Prize,  Outstanding Ph.D. Thesis Advisor Award, Korea Academy of Science and Technology(KAST)
-+ 2012. 2        :       Best Lecture Award, Yonsei University
 + 2010, 2004   :      Citation, SPIE (The International Society for Optical Engineering)
 + 2009. 3        :       Citation, The President of Republic of Korea
 + 2008. 12       :      Citation, Minister of Environment, Republic of Korea
