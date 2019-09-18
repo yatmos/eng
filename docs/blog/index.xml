@@ -6,10 +6,19 @@
     <description>Recent content in news on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2019 13:09:47 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2019 11:50:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Seminar] Dr. Sung Hyup You</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2019/09/18/seminar_sunghyupyoue/</link>
+      <pubDate>Wed, 18 Sep 2019 11:50:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2019/09/18/seminar_sunghyupyoue/</guid>
+      <description>해양기상의 현재와 미래 Dr. Sung Hyup You (Marine Meteorology Division, KMA) September 24,</description>
+    </item>
     
     <item>
       <title>[Seminar] Prof. Sunyoung Park</title>
