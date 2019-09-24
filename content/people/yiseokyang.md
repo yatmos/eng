@@ -22,3 +22,4 @@ weight = 40
 + Excellence Award, The 3rd Student Competition in Research Using Meteorological Satellite  (2017. 11. 15)
 
 #### Publications
++ Um, J., McFarquhar, G. M., Stith, J. L., Jung, C. H., Lee, S. S., Lee, J. Y., Shin, Y., Lee, Y. G., Yang, Y. I., Yum, S.S., Kim, B.-G., Cha J.W., & Ko, A.-R. (2018). Microphysical characteristics of frozen droplet aggregates from deep convective clouds. Atmospheric Chemistry and Physics, 18(23), 16915-16930.
