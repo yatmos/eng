@@ -2,7 +2,7 @@
 title = "Jae In Song"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["students"]
-banner = "img/people/JaeInSong.jpg"
+banner = "img/people/JaeInSong2.jpg"
 email = "jaein_song@yonsei.ac.kr"
 job = "Ph.D. student"
 phone = "02-2123-7613"
@@ -12,7 +12,7 @@ weight = 40
 +++
 
 #### Research interests
-+ Cloud Physics 
++ Cloud Physics
 + Ground based remote sensing of clouds
 + Fog in-situ measurements
 + Visibility Parameterization
