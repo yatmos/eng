@@ -6,10 +6,19 @@
     <description>Recent content in news on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2019 11:45:47 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2019 11:38:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Seminar] Dr. Kitae Kim</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2019/10/10/seminar_kitaekim/</link>
+      <pubDate>Thu, 10 Oct 2019 11:38:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2019/10/10/seminar_kitaekim/</guid>
+      <description>극지방 얼음에서 일어나는 화학반응 연구 Dr. Kitae Kim</description>
+    </item>
     
     <item>
       <title>[Seminar] Dr. Woosuk Choi</title>
