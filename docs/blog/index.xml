@@ -6,10 +6,20 @@
     <description>Recent content in news on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Oct 2019 11:38:47 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2019 14:43:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Seminar] Prof. Yang Liu</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2019/10/31/seminar_yangliu/</link>
+      <pubDate>Thu, 31 Oct 2019 14:43:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2019/10/31/seminar_yangliu/</guid>
+      <description>Applications of Satellite and Low-cost Sensor Data in Estimating PM2.5 Concentrations 
+Prof. Yang Liu (Emory University) November 5, 2019 (Tuesday) 16:00 Science Hall #553</description>
+    </item>
     
     <item>
       <title>[Seminar] Dr. Kitae Kim</title>
