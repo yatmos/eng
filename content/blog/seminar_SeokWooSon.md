@@ -5,7 +5,7 @@ categories = ["Seminar"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
-###  성층권-대류권 접합
+###  Stratosphere-Troposphere downward coupling: Overview
 <br>
 #### Prof. Seok-Woo Son (Seoul National University)
 #### November 12, 2019 (Tuesday) 17:00
