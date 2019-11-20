@@ -6,10 +6,19 @@
     <description>Recent content in Seminar on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Nov 2019 13:28:47 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 16:44:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/categories/seminar/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Seminar] Prof. Hanlim Lee</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2019/11/20/seminar_hanlimlee/</link>
+      <pubDate>Wed, 20 Nov 2019 16:44:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2019/11/20/seminar_hanlimlee/</guid>
+      <description>A novel technique for retrieval of atmospheric NO2 vertical distribution from a hyperspectral satellite sensor: Ideas &amp;amp; Implementation Prof. Hanlim</description>
+    </item>
     
     <item>
       <title>[Seminar] Prof. Youngryel Ryu</title>
