@@ -1,6 +1,6 @@
 +++
 title = "[Seminar] Prof. Eun-Chul Chang"
-date = 2019-11-13T13:28:47+09:00
+date = 2019-11-25T13:28:47+09:00
 categories = ["Seminar"]
 banner = "img/placeholder.png"
 icon = "microphone"
