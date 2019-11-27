@@ -22,3 +22,4 @@ weight = 60
 
 
 #### Publications
++ Noh, Y., D. Oh, F. Hoffmann, and S. Raasch, "A Cloud Microphysics Parameterization for Shallow Cumulus Clouds Based on Lagrangian Cloud Model Simulations", J. Atmos. Sci., 75, 4031-4047, 2018.

@@ -16,6 +16,7 @@ weight = 40
 + radiosonde observation over Antarctica
 
 #### Education
++ **M.Sc** (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **B.Sc** (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Awards

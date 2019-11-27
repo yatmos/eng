@@ -14,6 +14,7 @@ weight = 40
 #### Research interests
 + Column-surface relationship
 + Investigation of aircraft measurement campaign
++ Estimation of ground-level PM2.5 using a machine learning method
 
 #### Education
  + **B.Sc** (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea
