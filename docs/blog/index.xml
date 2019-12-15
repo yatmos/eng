@@ -6,10 +6,29 @@
     <description>Recent content in news on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2019 16:49:47 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 15:50:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Seminar] Dr. Byoung-Joo Jung</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2019/12/15/seminar_byoungjooju/</link>
+      <pubDate>Sun, 15 Dec 2019 15:50:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2019/12/15/seminar_byoungjooju/</guid>
+      <description>JEDI를 이용한 MPAS 자료동화 시스템 개발 현황</description>
+    </item>
+    
+    <item>
+      <title>[Seminar] Prof. Eun-Soon Im</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2019/12/15/seminar_eunsoonim/</link>
+      <pubDate>Sun, 15 Dec 2019 15:46:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2019/12/15/seminar_eunsoonim/</guid>
+      <description>Ubiquitous increase of extreme heat stress under global warming 
+Prof. Eun-Soon Im (The Hong Kong University of Science and Technology, Hong Kong) December 17, 2019 (Tuesday) 16:00 Science Hall #553</description>
+    </item>
     
     <item>
       <title>[Seminar]  Bang-Sil Shin (Reporter)</title>
