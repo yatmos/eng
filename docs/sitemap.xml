@@ -454,8 +454,31 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/categories/</loc>
+    <lastmod>2020-01-10T17:08:47+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/</loc>
+    <lastmod>2020-01-10T17:08:47+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/eng/blog/2020/01/10/seminar_jin-sookim/</loc>
     <lastmod>2020-01-10T17:08:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/blog/</loc>
+    <lastmod>2020-01-10T17:08:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/categories/seminar/</loc>
+    <lastmod>2020-01-10T17:08:47+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -794,6 +817,23 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/people/</loc>
+    <lastmod>2018-04-17T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/teams/</loc>
+    <lastmod>2018-04-17T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/teams/faculty/</loc>
+    <lastmod>2018-04-17T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/eng/blog/2018/04/13/seminar_sungyongkim/</loc>
     <lastmod>2018-04-13T12:49:47+09:00</lastmod>
   </url>
@@ -809,6 +849,18 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/teams/researchers/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/teams/students/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/eng/blog/2018/03/18/seminar_leemyungin/</loc>
     <lastmod>2018-03-18T12:49:47+09:00</lastmod>
   </url>
@@ -816,6 +868,12 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/eng/blog/2018/03/17/seminar_kaplan/</loc>
     <lastmod>2018-03-17T18:04:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/categories/news/</loc>
+    <lastmod>2018-03-03T13:42:03+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -849,40 +907,12 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/</loc>
-    <lastmod>2018-04-17T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/eng/education/</loc>
     <lastmod>2017-12-18T14:08:23-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/teams/faculty/</loc>
-    <lastmod>2018-04-17T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/categories/news/</loc>
-    <lastmod>2018-03-03T13:42:03+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/people/</loc>
-    <lastmod>2018-04-17T13:39:46+02:00</lastmod>
+    <loc>https://atmos.yonsei.ac.kr/eng/about/</loc>
   </url>
   
   <url>
@@ -890,37 +920,8 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/teams/researchers/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/categories/seminar/</loc>
-    <lastmod>2020-01-10T17:08:47+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/teams/students/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/eng/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/teams/</loc>
-    <lastmod>2018-04-17T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/blog/</loc>
-    <lastmod>2020-01-10T17:08:47+09:00</lastmod>
   </url>
   
 </urlset>
