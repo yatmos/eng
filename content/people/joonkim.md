@@ -1,9 +1,9 @@
 +++
-title = "Joon Kim A"
+title = "Joon Kim"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/joonkima.jpg"
-job = "Professor, retired (service : 1995-2011)"
+job = "Professor, retired (1995-2011)"
 email = "joon@snu.ac.kr"
 room = "Department of Landscape Architecture and Rural System Engineering"
 web = "http://cssl.snu.ac.kr"
