@@ -6,7 +6,7 @@ banner = "img/people/dongheelee.png"
 email = "awzsseed@yonsei.ac.kr"
 job = "Ph.D. student"
 phone = "02-2123-7264"
-room = "Atmospheric Chemistry Laboratory "
+room = "Atmospheric Chemistry Laboratory / 535 Science Hall "
 web = ""
 weight = 40
 +++
@@ -17,7 +17,7 @@ weight = 40
 
 #### Education
  + **M.S** (2017) in Earth and Environmental Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Korea
-
+ + **B.S** (2017) in Urben Engineering, Chungbuk National University, Cheongju, Korea
 #### Awards
 
 #### Publications
