@@ -12,9 +12,9 @@ weight = 40
 +++
 
 #### Research interests
-+ Measurement and analysis of carbon, water and energy fluxes at the land-atmosphere interface
-+ Urban Climate and Environment
-+ Atmospheric Turbulence
+ + Measurement and analysis of carbon, water and energy fluxes at the land-atmosphere interface
+ + Urban Climate and Environment
+ + Atmospheric Turbulence
 
 #### Education
  + **M.Sc** (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea
