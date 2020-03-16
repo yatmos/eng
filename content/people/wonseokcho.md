@@ -2,7 +2,7 @@
 title = "Wonseok Cho"
 date = "2020-03-13T18:10:46+02:00"
 teams = ["students"]
-banner = "img/people/wonseokcho.png"
+banner = "img/people/wonseokcho.jpg"
 email = "rebu@yonsei.ac.kr"
 job = "M.Sc. student"
 phone = "02-2123-5680"
