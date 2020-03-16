@@ -13,7 +13,7 @@ weight = 40
 
 #### Research interests
 + Remote Sensing for Atmospheric Chemistry
-+
++ Spatiotemporal Variation Analysis of Hydrocarbons from Wildfires
 
 #### Education
  + **M.S** (2017) in Earth and Environmental Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Korea
