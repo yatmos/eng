@@ -6,7 +6,7 @@ banner = "img/people/hyojeongkim.png"
 email = "kimhj29@yonsei.ac.kr"
 job = "Ph.D. student"
 phone = "010-3201-1382"
-room = "Climate Theory Lab / Science Hall 536A"
+room = "Climate Theory Lab / Advanced Science & Technology Center 606"
 web = "http://web.yonsei.ac.kr/climatelab"
 weight = 40
 +++

@@ -12,11 +12,13 @@ weight = 50
 +++
 
 #### Research interests
- + Modeling of the land-atmosphere interface
++ Modeling of the land-atmosphere interface
++ Land Surface Modeling
 
 
 #### Education
- + **B.Sc** (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **M.Sc** (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **B.Sc** (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Awards
 
