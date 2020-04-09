@@ -7,7 +7,7 @@ email = "taegyung@yonsei.ac.kr"
 job = "Ph.D. student"
 phone = "02-2123-7264"
 room = "Atmospheric Chemistry Laboratory / 535 Science Hall "
-web = ""
+web = "https://atmchem.yonsei.ac.kr/"
 weight = 40
 +++
 
