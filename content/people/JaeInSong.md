@@ -24,5 +24,6 @@ weight = 40
 
 #### Publications
 + La, I., Yum, S. S., Gultepe, I., Yeom, J. M., Song, J. I., & Cha, J. W. (2020). Influence of Quasi-Periodic Oscillation of Atmospheric Variables on Radiation Fog over A Mountainous Region of Korea. Atmosphere, 11(3), 230.
++ Song, J.I., Yum, S. S. (2019). An Assessment of the Effectiveness of Cloud Seeding as a Measure of Air Quality Improvement in the Seoul Metropolitan Area, Atmosphere, 29(5), 609-614
 + 송재인, & 염성수. (2019). 서울에서의 미세먼지 저감을 위한 인공강수 가능성 진단. 대기, 29(5), 609-614.
 + Song, J. I., Yum, S. S., Gultepe, I., Chang, K. H., & Kim, B. G. (2019). Development of a new visibility parameterization based on the measurement of fog microphysics at a mountain site in Korea. Atmospheric Research, 229, 115-126.
