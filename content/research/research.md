@@ -66,7 +66,7 @@ We investigate the mechanism of severe weather such as Changma, heavy rainfall, 
 
 <br>
 
-#### Atmospheric Chemistry Laboratory [(https://sites.google.com/site/cvjahokoo/)](https://sites.google.com/site/cvjahokoo/)
+#### Atmospheric Chemistry Laboratory [(https://atmchem.yonsei.ac.kr/)](http://atmchem.yonsei.ac.kr/)
 Our laboratory basically performs the analyses about the spatiotemporal variation of atmospheric chemicals and their influence on the air quality and atmospheric environment. Present researches focus on the regional distribution and transport pattern of air pollutants in East Asia, the relationship between airborne aerosols and precursors, and characteristics of stratospheric and tropospheric ozone related to the polar environmental change. Eventually, we would better understand the effect of meteorology and climate variability on atmospheric chemistry.
 
 <br>

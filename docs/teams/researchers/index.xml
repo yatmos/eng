@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Researchers on Department of Atmospheric Sciences, Yonsei University</title>
+    <title>researchers on Department of Atmospheric Sciences, Yonsei University</title>
     <link>https://atmos.yonsei.ac.kr/eng/teams/researchers/</link>
-    <description>Recent content in Researchers on Department of Atmospheric Sciences, Yonsei University</description>
+    <description>Recent content in researchers on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Mar 2018 13:39:46 +0200</lastBuildDate>
@@ -27,15 +27,6 @@
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/woojinlee/</guid>
       <description>Research interests  numerical weather prediction, weather forecast dynamic meteorology  Education  Ph.d. (1994) in Meteorology, University of Illinois at Urbana-Champaign, IL, USA M.</description>
-    </item>
-    
-    <item>
-      <title>Ashley Brereton</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/ashleybrereton/</link>
-      <pubDate>Fri, 24 Mar 2017 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/eng/people/ashleybrereton/</guid>
-      <description>Research interests  Large-eddy simulation Ocean mixed layer turbulence Plankton population dynamics Bio-physical interactions Ocean model development Tidal turbulence  Education  Ph.</description>
     </item>
     
     <item>
@@ -63,6 +54,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/yurilee/</guid>
       <description>Research interests  Remote sensing for precipitation estimation  Education  Ph.d. (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea M.</description>
+    </item>
+    
+    <item>
+      <title>Minsu Park</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/minsupark/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/minsupark/</guid>
+      <description>Research interests  Measurement of physical characteristics of aerosol and CCN  Education  B.Sc (2012) in Atmospheric Sciences, Yonsei University, Seoul, Korea Ph.</description>
     </item>
     
     <item>

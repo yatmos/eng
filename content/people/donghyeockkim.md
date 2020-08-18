@@ -13,6 +13,7 @@ weight = 60
 
 #### Research interests
 + Passive Microwave Remote Sensing of Precipitation
++ Ocean surface emissivity
 
 #### Education
  + **B.Sc** (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea

@@ -7,7 +7,7 @@ email = "zach45@yonsei.ac.kr"
 job = "Assistant Professor"
 phone = "+82-2-2123-5694"
 room = "Atmospheric Chemistry Laboratory / Science Hall #539"
-web = "https://sites.google.com/site/cvjahokoo/"
+web = "https://atmchem.yonsei.ac.kr/"
 weight = 10
 +++
 

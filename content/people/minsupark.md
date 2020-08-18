@@ -1,12 +1,12 @@
 +++
 title = "Minsu Park"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["researchers"]
 banner = "img/people/minsupark.png"
 email = "ms_park@yonsei.ac.kr "
-job = "Ph.D. student"
+job = "Postdoctoral Researcher"
 phone = "02-2123-7613"
-room = "Cloud Physics Laboratory / Science Hall 554A"
+room = "Cloud Physics Laboratory / Science Hall 530A"
 web = "http://cloud.yonsei.ac.kr"
 weight = 40
 +++
@@ -16,6 +16,7 @@ weight = 40
 
 #### Education
  + **B.Sc** (2012) in Atmospheric Sciences, Yonsei University, Seoul, Korea
+ + **Ph.D** (2018) in Cloud Physics, Yonsei University, Seoul, Korea
 
 #### Awards
 
