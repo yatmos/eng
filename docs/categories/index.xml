@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Department of Atmospheric Sciences, Yonsei University</title>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Seminar</title>
+      <title>seminar</title>
       <link>https://atmos.yonsei.ac.kr/eng/categories/seminar/</link>
       <pubDate>Fri, 10 Jan 2020 17:08:47 +0900</pubDate>
       
