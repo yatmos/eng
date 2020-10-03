@@ -17,7 +17,7 @@ weight = 60
 #### Education
  + **B.Sc** (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Awards 
+#### Awards
 
 #### Publications
 + La, I., Yum, S. S., Gultepe, I., Yeom, J. M., Song, J. I., & Cha, J. W. (2020). Influence of Quasi-Periodic Oscillation of Atmospheric Variables on Radiation Fog over A Mountainous Region of Korea. Atmosphere, 11(3), 230. 
