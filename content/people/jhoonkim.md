@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "Jhoon Kim"
 date = "2018-04-14T13:39:46+02:00"
 teams = ["faculty"]
@@ -25,7 +25,8 @@ weight = 4
 #### Professional Experience
 + 2003 - present:  Professor, Department of Atmospheric Sciences, Yonsei University
 + 1991 - 2003    :   Principal Researcher, Senior Researcher, Korea Aerospace Research Institute (KARI)
-+ 2019 - 2020    :   Member, Committee of Science and Technology, National Council on Climate and Air Quality (NCCA)
++ 2021 - present : Fellow, the Korea Academy of Science and Technology (KAST)
++ 2019 - 2021    :   Member, Committee of Science and Technology, National Council on Climate and Air Quality (NCCA)
 + 2018 - present  : Associate Editor, Remote Sensing
 + 2017 - present :  Member, Science Advisory Group (SAG), WMO GAW Urban Research Meteorology and Environment (GURME)
 + 2016 - present  : Guest Editor, Atmospheric Measurement Technique(AMT)
