@@ -6,10 +6,33 @@
     <description>Recent content in news on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2020 17:19:47 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 08:19:47 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/eng/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Seminar] Prof. Eun-Chul Chang</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2020/11/09/seminar_2020_ecjang/</link>
+      <pubDate>Mon, 09 Nov 2020 08:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2020/11/09/seminar_2020_ecjang/</guid>
+      <description>날씨 규모에서의 장마 연구 장마의 기상학적 정의</description>
+    </item>
     
-	<atom:link href="https://atmos.yonsei.ac.kr/eng/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Seminar] Dr. Youngsil Kwak</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2020/11/03/seminar_2020_ysgwak/</link>
+      <pubDate>Tue, 03 Nov 2020 17:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2020/11/03/seminar_2020_ysgwak/</guid>
+      <description>우주가시작되는곳: 전리권/고층대기 고도 약</description>
+    </item>
     
+    <item>
+      <title>[Seminar] Prof. Chung Kyu Park</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2020/10/27/seminar_2020_jkpark/</link>
+      <pubDate>Tue, 27 Oct 2020 17:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2020/10/27/seminar_2020_jkpark/</guid>
+      <description>유엔 지속가능발전목표와 세계기상기구의 역할</description>
+    </item>
     
     <item>
       <title>[Seminar] Dr. Ki-Tae Park</title>
