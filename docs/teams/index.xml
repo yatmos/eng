@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>students</title>
+      <title>Students</title>
       <link>https://atmos.yonsei.ac.kr/eng/teams/students/</link>
       <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>faculty</title>
+      <title>Faculty</title>
       <link>https://atmos.yonsei.ac.kr/eng/teams/faculty/</link>
       <pubDate>Tue, 17 Apr 2018 13:39:46 +0200</pubDate>
       
@@ -30,11 +30,20 @@
     </item>
     
     <item>
-      <title>researchers</title>
+      <title>Researchers</title>
       <link>https://atmos.yonsei.ac.kr/eng/teams/researchers/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/teams/researchers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retired Faculty</title>
+      <link>https://atmos.yonsei.ac.kr/eng/teams/retired-faculty/</link>
+      <pubDate>Mon, 10 Apr 2017 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/teams/retired-faculty/</guid>
       <description></description>
     </item>
     
