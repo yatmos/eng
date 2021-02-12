@@ -9,9 +9,35 @@
 
     <div class="panel-body">
         <ul class="nav nav-pills nav-stacked">
+            {{ $current := . }}
+            <!-- {{ $current.RelPermalink }} -->
             {{ range $name, $items := .Site.Taxonomies.teams }}
-            <li><a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}">{{ $name }} ({{ len $items }})</a>
+            <!-- {{ $name | urlize | lower }} -->
+            {{ if eq $name "faculty" }}
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/eng/teams/%s/") }} class="active"{{ end }}>
+                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}"> Faculty </a>
             </li>
+            {{ else if eq $name "retired" }}
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/eng/teams/%s/") }} class="active"{{ end }}>
+                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}"> Retired faculty </a>
+            </li>
+            {{ else if eq $name "researchers" }}
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/eng/teams/%s/") }} class="active"{{ end }}>
+                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}"> Researchers </a>
+            </li>
+            {{ else if eq $name "zalumni" }}
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/eng/teams/%s/") }} class="active"{{ end }}>
+                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}"> 졸업생명단 </a>
+            </li>
+            {{ else if eq $name "students" }}
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/eng/teams/%s/") }} class="active"{{ end }}>
+                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}"> Graduate students </a>
+            </li>
+            {{ else }}
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/teams/%s/") }} class="active"{{ end }}>
+                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}">{{ $name }} </a>
+            </li>
+            {{ end }}
             {{ end }}
         </ul>
     </div>

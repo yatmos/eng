@@ -1,7 +1,7 @@
 +++
 title = "Joon Kim"
 date = "2015-08-03T13:39:46+02:00"
-teams = ["Retired Faculty"]
+teams = ["retired"]
 banner = "img/people/joonkima.jpg"
 job = "Professor, retired (1995-2011)"
 email = "joon@snu.ac.kr"
@@ -17,6 +17,5 @@ weight = 15
 
 #### Scientific Work Experience
 + 2008. 4 ~ present	Chair of AsiaFlux
-+ 2008. 1 ~ present
-+ Editor-in-Chief, Korean Journal of Agricultural and Forest Meteorology    
++ 2008. 1 ~ present Editor-in-Chief, Korean Journal of Agricultural and Forest Meteorology    
 + 2012. 3 ~ present	Chair, Interdisciplinary Program in Agricultural and Forest Meteorology, Seoul National University

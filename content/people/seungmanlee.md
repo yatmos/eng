@@ -1,7 +1,7 @@
 +++
 title = "Seungman Lee"
 date = "2016-04-08T13:39:46+02:00"
-teams = ["Retired Faculty"]
+teams = ["Retired"]
 banner = "img/people/seungmanlee.jpg"
 email = ""
 job = "Professor Emeritus (1979.8~2001.2)"

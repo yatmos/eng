@@ -1,7 +1,7 @@
 +++
 title = "Jeong Woo Kim"
 date = "2015-08-03T13:39:46+02:00"
-teams = ["Retired Faculty"]
+teams = ["Retired"]
 banner = "img/people/jeongwookim.jpg"
 email = "j-wkim@yonsei.ac.kr "
 job = "Professor Emeritus (1982.8~2003.2)"
