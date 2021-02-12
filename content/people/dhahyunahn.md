@@ -1,7 +1,7 @@
 +++
 title = "DhaHyun Ahn"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/DhaHyun_Ahn.png"
 email = "devorahn711@gmail.com"
 job = "Combined M.Sc./Ph.D. student"

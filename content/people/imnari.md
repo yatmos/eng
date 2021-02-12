@@ -1,7 +1,7 @@
 +++
 title = "Nari Im"
 date = "2020-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/imnari.jpg"
 email = "imnari@yonsei.ac.kr"
 job = "M.SC. STUDENT"

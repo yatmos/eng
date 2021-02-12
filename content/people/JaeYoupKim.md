@@ -1,7 +1,7 @@
 ﻿+++
 title = "Jae Youp Kim"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/kimjy.jpg"
 email = "kimjy.par@yonsei.ac.kr"
 job = "Combined M.S./Ph.D. student"

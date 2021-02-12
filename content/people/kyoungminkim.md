@@ -1,7 +1,7 @@
 +++
 title = "Kyoung-Min Kim"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/Kyoung-Min_Kim.png"
 email = "km071202@gmail.com"
 job = "Combined M.Sc./Ph.D. student"

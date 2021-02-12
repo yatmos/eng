@@ -1,7 +1,7 @@
 ﻿+++
 title = "Doyoun Chung"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/doyounchung.jpg"
 email = "doyoon22@yonsei.ac.kr"
 job = "M.Sc. student"

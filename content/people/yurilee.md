@@ -1,7 +1,7 @@
 ﻿+++
 title = "Yuri Lee"
 date = "2017-03-24T13:39:46+02:00"
-teams = ["researchers"]
+teams = ["Researchers"]
 banner = "img/people/yrlee.png"
 email = "yrlee12@yonsei.ac.kr"
 job = "Postdoctoral Researcher"

@@ -1,7 +1,7 @@
 +++
 title = "Yeonju Choi"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/yeonjuchoi.png"
 email = "ywn0709@yonsei.ac.kr"
 job = "Combined M.Sc./Ph.D. student"

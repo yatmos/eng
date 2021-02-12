@@ -1,7 +1,7 @@
 +++
 title = "Dong-Bin Shin"
 date = "2018-04-11T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["Faculty"]
 banner = "img/people/dongbinshin.jpg"
 email = "dbshin@yonsei.ac.kr"
 job = "Professor"

@@ -1,7 +1,7 @@
 +++
 title = "Woo-Jin Lee"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["researchers"]
+teams = ["Researchers"]
 banner = "img/people/LEEwoojin.jpg"
 email = "wjlee1977@gmail.com"
 job = "Research Professor"

@@ -1,7 +1,7 @@
 +++
 title = "Hyun Mee Kim"
 date = "2018-04-13T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["Faculty"]
 banner = "img/people/hyunmeekim.jpg"
 email = "khm@yonsei.ac.kr"
 job = "Professor"

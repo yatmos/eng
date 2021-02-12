@@ -1,7 +1,7 @@
 +++
 title = "Inyeob La"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/inyeobla.png"
 email = "iyna481@yonsei.ac.kr"
 job = "Combined Ph.D. student"

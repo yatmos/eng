@@ -1,7 +1,7 @@
 +++
 title = "Hye-Yeong Chun"
 date = "2018-04-16T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["Faculty"]
 banner = "img/people/hyeyeongchun.jpg"
 email = " chunhy@yonsei.ac.kr"
 job = "Professor"

@@ -1,7 +1,7 @@
 +++
 title = "Hajoon Song"
 date = "2018-04-08T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["Faculty"]
 active = "people"
 banner = "img/people/HajoonSong.png"
 email = "hajsong@yonsei.ac.kr"
@@ -27,10 +27,15 @@ weight = 10
 + Scripps Institution of Oceanography, La Jolla, USA (2005-2011)
 
 #### Courses
-+ [Air-sea interactions](https://hajsong.github.io/ATM2106)
++ [Atmospheric and Oceanic Circulation](https://hajsong.github.io/ATM2106)
 + [Ocean modeling](https://hajsong.github.io/ATM9107)
++ Atmosphere-Ocean interaction
++ Physical Oceanography
 
 #### Selected Publications
++ Doddridge, E. W. , J. Marshall, H. Song, J-M Campin and M. Kelley (2021). Southern Ocean heat storage, reemergence, and winter sea ice decline induced by summertime winds. _Journal of Climate_ 34 (4), 1403-1415
++ Gupta, M., J. Marshall, H. Song, J-M Campin and G. Meneghello (2020). Sea‐Ice Melt Driven by Ice‐Ocean Stresses on the Mesoscale, _Journal of Geophysical Research: Oceans_ 125 (11), e2020JC016404
++ Wang, S., Kranz, S. A., Kelly, T. B., Song, H., Stukel, M. R., and Cassar, N. (2020). Lagrangian studies of net community production: The effect of diel and multiday nonsteady state factors and vertical fluxes on O<sub>2</sub>/Ar in a dynamic upwelling region. Journal of Geophysical Research: Biogeosciences, 125, e2019JG005569. https://doi.org/10.1029/2019JG005569
 + Stukel, M. R., L. I. Aluwihare, K. A. Barbeau, A. M. Chekalyuk, R. Goericke, A. J. Miller, M. D. Ohman, A. Ruacho, H. Song, B. Stephens, M. R. Landry, 2017: Mesoscale ocean fronts enhance carbon export due to gravitational sinking and subduction. PNAS, 114, 1252-1257.
 + Mattern, J. P., H. Song, C. A. Edwards, A. M. Moore and J. Fiechter, 2017: Data assimilation of physical and chlorophyll observations in the California Current System using two biogeochemical models. Ocean Model., 109, 55-71.
 + Song, H., J. Marshall, D. R. Munro, S. Dutkiewicz, C. Sweeney, D. J. McGillicuddy Jr. and U. Hausmann, 2016: Mesoscale modulation of air-sea CO2 flux in Drake Passage. J. Geophys. Res., 121, 6635-6649.

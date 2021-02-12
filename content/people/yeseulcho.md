@@ -1,7 +1,7 @@
 +++
 title = "Yeseul Cho"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/Yeseul_Cho.png"
 email = "dptmf209@naver.com"
 job = "Ph.D. student"

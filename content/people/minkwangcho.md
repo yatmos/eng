@@ -1,7 +1,7 @@
 +++
 title = "Minkwang Cho"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/minkwangcho.png"
 email = "mk_cho@yonsei.ac.kr"
 job = "Ph.D. student"

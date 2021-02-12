@@ -1,7 +1,7 @@
 ﻿+++
 title = "Eun-Gyeong Yang"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["researchers"]
+teams = ["Researchers"]
 banner = "img/people/eungyeongyang.png"
 email = "yeg24@yonsei.ac.kr"
 job = "Postdoctoral Researcher"

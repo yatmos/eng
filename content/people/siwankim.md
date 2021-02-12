@@ -1,7 +1,7 @@
 +++
 title = "Si-Wan Kim"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["researchers"]
+teams = ["Researchers"]
 banner = "img/people/siwankim.png"
 email = "siwan.kim@yonsei.ac.kr"
 job = "Research Professor"

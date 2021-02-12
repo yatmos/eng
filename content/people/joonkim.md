@@ -1,7 +1,7 @@
 +++
 title = "Joon Kim"
 date = "2015-08-03T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["Retired Faculty"]
 banner = "img/people/joonkima.jpg"
 job = "Professor, retired (1995-2011)"
 email = "joon@snu.ac.kr"

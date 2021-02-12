@@ -1,7 +1,7 @@
 +++
 title = "Seungwoo Ryu"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/rsw.jpg"
 email = "swryu@yonsei.ac.kr"
 job = "M.Sc. student"

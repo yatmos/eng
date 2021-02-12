@@ -2,7 +2,7 @@
 title = "Yign Noh"
 date = "2018-04-17T13:39:46+02:00"
 active = "people"
-teams = ["faculty"]
+teams = ["Faculty"]
 banner = "img/people/yignnoh.jpg"
 email = " noh@yonsei.ac.kr"
 job = "Professor"

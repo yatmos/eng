@@ -1,7 +1,7 @@
 ﻿+++
 title = "Silvio Kalisch"
 date = "2017-03-24T13:39:46+02:00"
-teams = ["researchers"]
+teams = ["Researchers"]
 banner = "img/people/Kalisch_picture_informal_200x200.jpg"
 email = "s.kalisch82 (at) gmail.com"
 job = "Research Professor"

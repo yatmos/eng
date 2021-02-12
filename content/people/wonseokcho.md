@@ -2,7 +2,7 @@
 
 title = "Wonseok Cho"
 date = "2020-03-13T18:10:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/wonseokcho.jpg"
 email = "rebu@yonsei.ac.kr"
 job = "M.Sc. student"
@@ -21,4 +21,3 @@ weight = 50
 #### Awards
 
 #### Publications
-

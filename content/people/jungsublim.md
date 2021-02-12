@@ -1,7 +1,7 @@
 +++
 title = "Jung-Sub Lim"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/jungsublim.png"
 email = "jslim93@yonsei.ac.kr"
 job = "M.Sc. student"

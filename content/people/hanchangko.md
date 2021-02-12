@@ -1,7 +1,7 @@
 ﻿+++
 title = "Han-Chang Ko"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/Han-Chang Ko.png"
 email = "gcinc@yonsei.ac.kr"
 job = "Combined M.Sc./Ph.D. student"

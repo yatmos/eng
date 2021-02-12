@@ -1,7 +1,7 @@
 +++
 title = "Hi Ku Cho"
 date = "2017-04-09T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["Retired Faculty"]
 banner = "img/people/hikucho.jpg"
 email = "chk@yonsei.ac.kr"
 job = "Professor Emeritus (1971.2~1999.2)"

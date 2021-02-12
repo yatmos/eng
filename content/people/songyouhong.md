@@ -1,7 +1,7 @@
 +++
 title = "Song-You Hong"
 date = "2016-04-10T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["Retired Faculty"]
 banner = "img/people/hong-photo-small.jpg"
 job = "Professor, retired (2000-2017)"
 email = "songyouhong@gmail.com"

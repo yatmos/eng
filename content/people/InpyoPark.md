@@ -1,7 +1,7 @@
 ﻿+++
 title = "Inpyo Park"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/InpyoPark.jpg"
 email = "binpyo@naver.com"
 job = "M.Sc. student"

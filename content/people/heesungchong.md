@@ -1,7 +1,7 @@
 +++
 title = "Heesung Chong"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["Students"]
 banner = "img/people/Heesung_Chong.png"
 email = "hesungc@gmail.com"
 job = "Combined M.Sc./Ph.D. student"
