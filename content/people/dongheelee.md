@@ -6,7 +6,7 @@ banner = "img/people/dongheelee.png"
 email = "awzsseed@yonsei.ac.kr"
 job = "Ph.D. student"
 phone = "02-2123-7624"
-room = "Atmospheric Chemistry Laboratory / 535 Science Hall "
+room = "Atmospheric Chemistry Laboratory / 535 Science Hall"
 web = "https://atmchem.yonsei.ac.kr/"
 weight = 40
 +++
