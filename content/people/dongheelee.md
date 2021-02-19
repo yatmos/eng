@@ -1,11 +1,11 @@
-Students+++
++++
 title = "Donghee Lee"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["Students"]
 banner = "img/people/dongheelee.png"
 email = "awzsseed@yonsei.ac.kr"
 job = "Ph.D. student"
-phone = "02-2123-7264"
+phone = "02-2123-7624"
 room = "Atmospheric Chemistry Laboratory / 535 Science Hall "
 web = "https://atmchem.yonsei.ac.kr/"
 weight = 40
