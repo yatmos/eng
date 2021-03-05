@@ -74,6 +74,11 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/people/insunsong/</loc>
+    <lastmod>2018-04-09T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/eng/people/sanghunpark/</loc>
     <lastmod>2018-04-09T13:39:46+02:00</lastmod>
   </url>
@@ -249,11 +254,6 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/people/minjeekang/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/eng/people/minseokkim/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
@@ -335,11 +335,6 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/eng/people/donghyukkim/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/people/doyounchung/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -429,6 +424,11 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/people/yeseullee/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/eng/people/yeonsupark/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
@@ -509,8 +509,28 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/blog/2021/03/05/seminar_20210309_jhsong/</loc>
+    <lastmod>2021-03-05T08:19:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/categories/</loc>
+    <lastmod>2021-03-05T08:19:47+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/eng/</loc>
-    <lastmod>2020-12-24T13:39:46+02:00</lastmod>
+    <lastmod>2021-03-05T08:19:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/blog/</loc>
+    <lastmod>2021-03-05T08:19:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/categories/seminar/</loc>
+    <lastmod>2021-03-05T08:19:47+09:00</lastmod>
   </url>
   
   <url>
@@ -530,21 +550,6 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/eng/blog/2020/12/01/seminar_2020_yhkim/</loc>
-    <lastmod>2020-12-01T08:19:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/categories/</loc>
-    <lastmod>2020-12-01T08:19:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/blog/</loc>
-    <lastmod>2020-12-01T08:19:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/eng/categories/seminar/</loc>
     <lastmod>2020-12-01T08:19:47+09:00</lastmod>
   </url>
   
