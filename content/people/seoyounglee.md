@@ -4,7 +4,7 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["Researchers"]
 banner = "img/people/seoyounglee.png"
 email = "tjdud9207@yonsei.ac.kr"
-job = "Combined M.Sc./Ph.D. student"
+job = "Postdoctoral Researcher"
 phone = "02-2123-7616"
 room = "Atmospheric Radiation Laboratory / Science Hall 531"
 web = "http://atrad.yonsei.ac.kr/"
@@ -17,6 +17,7 @@ weight = 60
 + Radiative transfer model
 
 #### Education
+ + **Ph.D.** (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea
  + **B.Sc** (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Awards
