@@ -8,7 +8,7 @@ job = "Associate Professor"
 phone = "02-2123-5650"
 room = "Science Hall #548"
 web = "https://undividedlife.github.io"
-weight = 9
+weight = 12
 +++
 
 #### Research interests
