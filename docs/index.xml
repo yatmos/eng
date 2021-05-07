@@ -6,7 +6,7 @@
     <description>Recent content on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Apr 2021 08:19:47 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 07 May 2021 08:19:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/index.xml" rel="self" type="application/rss+xml" />
     
@@ -147,15 +147,6 @@
     </item>
     
     <item>
-      <title>In-Sun Song</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/insunsong/</link>
-      <pubDate>Mon, 09 Apr 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/eng/people/insunsong/</guid>
-      <description>Research interests  Global structure of atmospheric wave phenomena Middle and upper atmosphere global modeling Dynamical processes and numerics in global atmospheric models  Education  Ph.</description>
-    </item>
-    
-    <item>
       <title>Sanghun Park</title>
       <link>https://atmos.yonsei.ac.kr/eng/people/sanghunpark/</link>
       <pubDate>Mon, 09 Apr 2018 13:39:46 +0200</pubDate>
@@ -189,6 +180,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/taeyounglee/</guid>
       <description>Research interests  Mesoscale Meteorology Air Pollution Meteorology Atmospheric Modeling Numerical Weather Prediction  Education  Ph.D. (1984) Oregon State University, Korea  Tenure 1987.</description>
+    </item>
+    
+    <item>
+      <title>In-Sun Song</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/insunsong/</link>
+      <pubDate>Mon, 09 Apr 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/insunsong/</guid>
+      <description>Research interests  Global structure of atmospheric wave phenomena Middle and upper atmosphere global modeling Dynamical processes and numerics in global atmospheric models  Education  Ph.</description>
     </item>
     
     <item>
@@ -873,6 +873,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/yeonjuchoi/</guid>
       <description>Research interests  Ocean Mixed Layer Large Eddy Simulation Atmospheric Boundary Layer  Education  B.Sc (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  (2017) Outstanding Young Scientists Award in 9th International Workshop on Modeling the Ocean  Publications  Noh.</description>
+    </item>
+    
+    <item>
+      <title>[Seminar] Dr. Jae-Heung Park</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2021/05/07/seminar_20210510_jaeheungpark/</link>
+      <pubDate>Fri, 07 May 2021 08:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2021/05/07/seminar_20210510_jaeheungpark/</guid>
+      <description>New approach for estimating soil moisture and soil organic matter from microwave brightness temperature Various climate (i.e., oceanic and atmospheric) variability modes with interannual timescales are co- existed around the Pacific Ocean.</description>
     </item>
     
     <item>
