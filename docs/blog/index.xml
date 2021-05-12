@@ -6,10 +6,19 @@
     <description>Recent content in news on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 May 2021 08:19:47 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 08:19:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Seminar] Dr. Daniel Holdway</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2021/05/12/seminar_20210514_danielholdaway/</link>
+      <pubDate>Wed, 12 May 2021 08:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2021/05/12/seminar_20210514_danielholdaway/</guid>
+      <description>Towards the next generation data assimilation system for NASA’s GEOS model The Joint Center for Satellite Data Assimilation (JCSDA) is developing the Joint Effort for Data assimilation Integration (JEDI).</description>
+    </item>
     
     <item>
       <title>[Seminar] Dr. Jae-Heung Park</title>

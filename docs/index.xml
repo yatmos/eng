@@ -6,7 +6,7 @@
     <description>Recent content on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 May 2021 08:19:47 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 08:19:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/index.xml" rel="self" type="application/rss+xml" />
     
@@ -873,6 +873,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/yeonjuchoi/</guid>
       <description>Research interests  Ocean Mixed Layer Large Eddy Simulation Atmospheric Boundary Layer  Education  B.Sc (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  (2017) Outstanding Young Scientists Award in 9th International Workshop on Modeling the Ocean  Publications  Noh.</description>
+    </item>
+    
+    <item>
+      <title>[Seminar] Dr. Daniel Holdway</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2021/05/12/seminar_20210514_danielholdaway/</link>
+      <pubDate>Wed, 12 May 2021 08:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2021/05/12/seminar_20210514_danielholdaway/</guid>
+      <description>Towards the next generation data assimilation system for NASA’s GEOS model The Joint Center for Satellite Data Assimilation (JCSDA) is developing the Joint Effort for Data assimilation Integration (JEDI).</description>
     </item>
     
     <item>
