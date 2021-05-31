@@ -6,10 +6,19 @@
     <description>Recent content in news on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2021 08:19:47 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 08:19:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Seminar] Dr. Junhong Lee</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2021/05/31/seminar_20210514_junhonglee/</link>
+      <pubDate>Mon, 31 May 2021 08:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2021/05/31/seminar_20210514_junhonglee/</guid>
+      <description>Implementation of the 3D Smagorinsky turbulence scheme in the ICON model and its applications The efforts have been taken to perform the simulation at a higher resolution.</description>
+    </item>
     
     <item>
       <title>[Seminar] Dr. Daniel Holdway</title>
