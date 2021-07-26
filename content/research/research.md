@@ -71,7 +71,7 @@ Our laboratory basically performs the analyses about the spatiotemporal variatio
 
 <br>
 
-#### Mathematical Atmospheric Physics Laboratory [(https://mapl.yonsei.ac.kr )](https://mapl.yonsei.ac.kr )
+#### Mathematical Atmospheric Physics Laboratory [(https://mapl.yonsei.ac.kr)](https://mapl.yonsei.ac.kr)
 
 We carry out interdisciplinary (atmospheric sciences, mathematics and
 physics) theoretical and numerical modeling studies to understand
