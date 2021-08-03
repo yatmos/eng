@@ -7,7 +7,7 @@ email = "songi@yonsei.ac.kr"
 job = "Associate Professor"
 phone = "02-2123-5650"
 room = "Science Hall #548"
-web = "https://undividedlife.github.io"
+web = "https://mapl.yonsei.ac.kr"
 weight = 12
 +++
 
