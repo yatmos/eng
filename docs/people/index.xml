@@ -6,7 +6,7 @@
     <description>Recent content in People on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2020 13:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Dec 2020 13:39:46 +0200</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/people/index.xml" rel="self" type="application/rss+xml" />
     
@@ -53,7 +53,7 @@
       <pubDate>Fri, 13 Apr 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/hyunmeekim/</guid>
-      <description>Research interests  Atmospheric Predictability Data Assimilation Adaptive Observation Large and Synoptic Scale Atmospheric Dynamics  Education  Ph.D. (2002) Atmospheric and Oceanic Sciences, University of Wisconsin-Madison, USA M.</description>
+      <description>Research interests  Data Assimilation, Atmospheric Predictability, Probabilistic Forecast Air-Quality Modeling, CO₂ Inverse Modeling Adaptive Observation, Observation Network Design, Observation Impact Assessment Reanalysis/ Reforecast and Climate Bigdata Large and Synoptic Scale Atmospheric Dynamics  Education  Ph.</description>
     </item>
     
     <item>
@@ -120,6 +120,15 @@
     </item>
     
     <item>
+      <title>In-Sun Song</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/insunsong/</link>
+      <pubDate>Mon, 09 Apr 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/insunsong/</guid>
+      <description>Research interests  Global structure of atmospheric wave phenomena Middle and upper atmosphere global modeling Dynamical processes and numerics in global atmospheric models  Education  Ph.</description>
+    </item>
+    
+    <item>
       <title>Hi Ku Cho</title>
       <link>https://atmos.yonsei.ac.kr/eng/people/hikucho/</link>
       <pubDate>Sun, 09 Apr 2017 13:39:46 +0200</pubDate>
@@ -165,21 +174,12 @@
     </item>
     
     <item>
-      <title>Si-Wan Kim</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/siwankim/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      <title>Chung-Kyu Park</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/jkpark/</link>
+      <pubDate>Thu, 24 Dec 2020 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/people/siwankim/</guid>
-      <description>Research interests  Air quality (tropospheric ozone and aerosols) Atmospheric composition Atmospheric chemistry and transport models Convection and boundary layer dynamics Mesoscale numerical models Utilization of satellite trace gas and aerosol retrievals for air quality and climate research  Education  Ph.</description>
-    </item>
-    
-    <item>
-      <title>Woo-Jin Lee</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/woojinlee/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/eng/people/woojinlee/</guid>
-      <description>Research interests  numerical weather prediction, weather forecast dynamic meteorology  Education  Ph.d. (1994) in Meteorology, University of Illinois at Urbana-Champaign, IL, USA M.</description>
+      <guid>https://atmos.yonsei.ac.kr/eng/people/jkpark/</guid>
+      <description>Research interests  Climate prediction and analysis Asian monsoon and drought Climate change science and adaptation Urban climate and air quality  Education  Ph.</description>
     </item>
     
     <item>
@@ -189,15 +189,6 @@
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/eungyeongyang/</guid>
       <description>Research interests  Data assimilation Regional reanalysis  Education  Ph.d (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea M.Sc (2013) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.</description>
-    </item>
-    
-    <item>
-      <title>Min-Gyung Seo</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/mingyungseo/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/eng/people/mingyungseo/</guid>
-      <description>Research interests Education  B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
     </item>
     
     <item>
@@ -228,21 +219,12 @@
     </item>
     
     <item>
-      <title>Ah-Hyun Kim</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/ahhyunkim/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/eng/people/ahhyunkim/</guid>
-      <description>Research interests  General ciruculation model, cloud droplet activation  Education  M.Sc (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.</description>
-    </item>
-    
-    <item>
       <title>Dae-Hui Kim</title>
       <link>https://atmos.yonsei.ac.kr/eng/people/daehuikim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/daehuikim/</guid>
-      <description>Research interests  Data assimilation Polar Weather Prediction  Education  B.Sc (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
+      <description>Research interests  Data assimilation Polar Weather Prediction  Education  B.Sc (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  (2020.</description>
     </item>
     
     <item>
@@ -264,6 +246,24 @@
     </item>
     
     <item>
+      <title>Donghee Lee</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/dongheelee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/dongheelee/</guid>
+      <description>Research interests  Remote Sensing for Atmospheric Chemistry Spatiotemporal Variation Analysis of Hydrocarbons from Wildfires Analysis of Differences of Wildfires between Continents  Education  M.</description>
+    </item>
+    
+    <item>
+      <title>Doyoon Kwon</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/doyoonkwon/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/doyoonkwon/</guid>
+      <description>Research interests  Regional modeling land-atmosphere interaction  Education  B.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
+    </item>
+    
+    <item>
       <title>Eun-Sook Heo</title>
       <link>https://atmos.yonsei.ac.kr/eng/people/eunsookheo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -278,7 +278,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/hanalee/</guid>
-      <description>Research interests  Estimation of Surface Solar radiation using satellite data Ground-based measurement of surface radiation Analysis of vertical ozone distribution in Antarctica  Education  M.</description>
+      <description>Research interests  Estimation of Surface Solar radiation using satellite data Ground-based measurement of surface radiation Analysis of vertical ozone distribution in Antarctica  Education  Ph.</description>
     </item>
     
     <item>
@@ -300,12 +300,12 @@
     </item>
     
     <item>
-      <title>Jae In Song</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/jaeinsong/</link>
+      <title>Jeongwon Kim</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/jeongwonkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/people/jaeinsong/</guid>
-      <description>Research interests Cloud Physics Ground based remote sensing of clouds Fog in-situ measurements Visibility Parameterization Education B.Sc (2013) in Atmospheric</description>
+      <guid>https://atmos.yonsei.ac.kr/eng/people/jeongwonkim/</guid>
+      <description>연구분야 Regional climate modeling Arctic Modeling Education M.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc</description>
     </item>
     
     <item>
@@ -341,16 +341,16 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/keunminlee/</guid>
-      <description>Research interests  Measurement and analysis of carbon, water and energy fluxes at the land-atmosphere interface Urban Climate and Environment Atmospheric Turbulence  Education  M.</description>
+      <description>Research interests Measurement and analysis of carbon, water and energy fluxes at the land-atmosphere interface Urban Climate and Environment Atmospheric</description>
     </item>
     
     <item>
-      <title>Kyoung Ock Choi</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/kyoungockchoi/</link>
+      <title>Kyeongmin Gim</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/kyeongmingim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/people/kyoungockchoi/</guid>
-      <description>Research interests  Large Eddy Simulation Entrainment and Mixing Cloud Seeding  Education  B.Sc (2014) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications  Lee, Seoung Soo, Zhanqing Li, Yuwei Zhang, Hyelim Yoo, Seungbum Kim, Byung Gon Kim, Yong Sang Choi, et al.</description>
+      <guid>https://atmos.yonsei.ac.kr/eng/people/kyeongmingim/</guid>
+      <description>Research interests  Measurement and analysis of energy fluxes at the land-atmosphere interface  Education  B.Sc (2021) in Atmospheric Sciences &amp;amp; Systems Biology, Yonsei University, Seoul, Korea  Awards Publications </description>
     </item>
     
     <item>
@@ -360,15 +360,6 @@
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/kyoungminkim/</guid>
       <description>Research interests  Aerosol regional model simulation Dust model simulation Atmospheric chemistry  Education  B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
-    </item>
-    
-    <item>
-      <title>Min-Jee Kang</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/minjeekang/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/eng/people/minjeekang/</guid>
-      <description>Research interests  Convective gravity waves Quasi-biennial oscillation Brewer-Dobson circulation Wave dynamics  Education  M.Sc (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.</description>
     </item>
     
     <item>
@@ -408,6 +399,15 @@
     </item>
     
     <item>
+      <title>Sunggyun Na</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/nasunggyun/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/nasunggyun/</guid>
+      <description>Research interests  Atmospheric chemistry  Education  B.Sc (2021) in Geography, Kyunghee university, Seoul, Korea  Awards Publications </description>
+    </item>
+    
+    <item>
       <title>Taegyung Lee</title>
       <link>https://atmos.yonsei.ac.kr/eng/people/taegyung/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -423,15 +423,6 @@
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/shinuju/</guid>
       <description>Research interests  Mesoscale convective system Heavy precipitation systems over the Korean peninsula  Education  Ph.D. (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea M.</description>
-    </item>
-    
-    <item>
-      <title>Wonheung Kim </title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/wonheungkim/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/eng/people/wonheungkim/</guid>
-      <description>Research interests  Numerical modeling of fog and seeding  Education  B.Sc (2012) in Atmospheric &amp;amp; Environmental Sciences, Gangneung-Wonju National University, Gangneung, Korea  Awards Publications  </description>
     </item>
     
     <item>
@@ -467,7 +458,7 @@
       <pubDate>Fri, 13 Mar 2020 18:10:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/wonseokcho/</guid>
-      <description>Research interests  Regional modeling land-atmosphere interaction  Education  B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
+      <description>Research interests  Regional modeling land-atmosphere interaction Regional chemical transport modeling  Education  B.Sc (2019) in Atmospheric Sciences &amp;amp; Mechanical Engineering, Yonsei University, Seoul, Korea  Awards Publications </description>
     </item>
     
     <item>
@@ -485,7 +476,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/arimyoon/</guid>
-      <description>Research interests  Land, atmosphere interaction Hydrology  Education  B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
+      <description>Research interests  Land, atmosphere interaction Hydrology  Education  B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  (2020) Best Presentation in the 2020 fall conference of Korean Meteorological Society  Publications </description>
     </item>
     
     <item>
@@ -516,15 +507,6 @@
     </item>
     
     <item>
-      <title>Doyoun Chung</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/doyounchung/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/eng/people/doyounchung/</guid>
-      <description>Research interests  Aviation Turbulence Near Cloud Turbulence  Education  B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
-    </item>
-    
-    <item>
       <title>Han-Chang Ko</title>
       <link>https://atmos.yonsei.ac.kr/eng/people/hanchangko/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -539,7 +521,16 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/hyejinkim/</guid>
-      <description>Research interests  Numerical Fluid  Education  B.Sc (2018) in Atmospheric Sciences, Kongju National University, Kongju, Korea  Awards Publications </description>
+      <description>Research interests  Atmospheric modeling  Education  M.Sc (2020) in Atmospheric Science, Yonsei University, Seoul, Korea B.Sc (2018) in Atmospheric Science, Kongju National University, Kongju, Korea  Awards Publications </description>
+    </item>
+    
+    <item>
+      <title>Hyo-Jun Seunu</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/seunuhyojun-/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/seunuhyojun-/</guid>
+      <description>Research interests  Air-sea Interaction Eddy Composite Analysis Southern Ocean  Education  B.Sc (2021) Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
     </item>
     
     <item>
@@ -561,12 +552,30 @@
     </item>
     
     <item>
+      <title>Jeong Yeon Kim</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/jeongyeonkim/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/jeongyeonkim/</guid>
+      <description>연구분야 Atmospheric Chemistry 학력 B.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수상내</description>
+    </item>
+    
+    <item>
+      <title>Ji-Woo Choi</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/jiwoochoi/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/jiwoochoi/</guid>
+      <description>Research interests  Mixed layer depth Southern Ocean  Education  B.Sc (2021) Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
+    </item>
+    
+    <item>
       <title>Joonsung Park</title>
       <link>https://atmos.yonsei.ac.kr/eng/people/joonsungpark/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/joonsungpark/</guid>
-      <description>Research interests  Atmospheric Modeling  Education  B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
+      <description>Research interests  Atmospheric Modeling  Education  M.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications  Shin, U, S.</description>
     </item>
     
     <item>
@@ -579,15 +588,6 @@
     </item>
     
     <item>
-      <title>Jun Park</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/junpark/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/eng/people/junpark/</guid>
-      <description>Research interests  Data assimilation  Education  M.Sc (2014) in Social Studies Education(Geography), Seoul National University, Seoul, Korea B.Sc (2011) in Geography Education, Seoul National University, Seoul, Korea  Awards Publications  Park, J.</description>
-    </item>
-    
-    <item>
       <title>Kyung-Min Kwak</title>
       <link>https://atmos.yonsei.ac.kr/eng/people/kyungminkwak/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -597,21 +597,48 @@
     </item>
     
     <item>
+      <title>Min Jae Lee</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/minjaelee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/minjaelee/</guid>
+      <description>Research interests  Atmospheric Modeling  Education  B.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea  Awards Publications </description>
+    </item>
+    
+    <item>
+      <title>Min-Gyung Seo</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/mingyungseo/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/mingyungseo/</guid>
+      <description>Research interests  Data assimilation  Education  M.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
+    </item>
+    
+    <item>
       <title>Minkwang Cho</title>
       <link>https://atmos.yonsei.ac.kr/eng/people/minkwangcho/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/minkwangcho/</guid>
-      <description>Research interests  Data assimilation  Education  M.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
+      <description>Research interests  Data assimilation  Education  M.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  (2018.</description>
     </item>
     
     <item>
-      <title>Seungwoo Ryu</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/seungwooryu/</link>
+      <title>Nahyun Lee</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/nahyunlee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/people/seungwooryu/</guid>
-      <description>Research interests  Numerical Model  Education  B.Sc (2018) in Physics, The Catholic University of Korea  Awards Publications </description>
+      <guid>https://atmos.yonsei.ac.kr/eng/people/nahyunlee/</guid>
+      <description>Research interests  Air Quality and Atmospheric Chemistry over East Asia  Education  B.Sc (2021) in Energy Resources Engineering, Kangwon National University, Chuncheon, Korea  Awards Publications </description>
+    </item>
+    
+    <item>
+      <title>Se Hyun Lee</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/sehyunlee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/sehyunlee/</guid>
+      <description>Research interests  Atmospheric Modeling  Education  B.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea  Awards Publications </description>
     </item>
     
     <item>
@@ -629,16 +656,52 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/songkang/</guid>
-      <description>연구분야 Polar Research for Atmospheric Chemistry 학력 B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+      <description>Research interests  Polar Research for Atmospheric Chemistry +  Education  B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
     </item>
     
     <item>
-      <title>Soo-Yeon Im</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/imsooyeon/</link>
+      <title>Ye-Seul Lee</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/yeseullee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/people/imsooyeon/</guid>
-      <description>Research interests  Paleoclimate  Education  B.Sc (2018) in Atmospheric Science, Yonsei University, Seoul, Korea  Awards Publications </description>
+      <guid>https://atmos.yonsei.ac.kr/eng/people/yeseullee/</guid>
+      <description>Research interests  Wind Shear High Vertical Resolution Radiosonde Data Aviation Turbulence  Education  B.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea  Awards Publications </description>
+    </item>
+    
+    <item>
+      <title>Yeonsu Park</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/yeonsupark/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/yeonsupark/</guid>
+      <description>연구분야 Atmospheric Chemistry 학력 B.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수상내</description>
+    </item>
+    
+    <item>
+      <title>Yu Joo Jeong</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/yujoojeong/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/yujoojeong/</guid>
+      <description>연구분야 Atmospheric Chemistry 학력 B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수상내</description>
+    </item>
+    
+    <item>
+      <title>Yu-Jin Kim</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/kimyujin-/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/kimyujin-/</guid>
+      <description>Research interests  Air-sea Interaction  Education  B.Sc (2021) Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
+    </item>
+    
+    <item>
+      <title>Chanwoo Ahn</title>
+      <link>https://atmos.yonsei.ac.kr/eng/people/chanwooahn/</link>
+      <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/people/chanwooahn/</guid>
+      <description>Research interests  Aerosol in situ observation  Education  B.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications  </description>
     </item>
     
     <item>
@@ -665,16 +728,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/heesungchong/</guid>
-      <description>Research interests  Remote sensing Trace gas retrievals Uncertainty estimation  Education  B.Sc (2015) in Chemical and Biomolecular Engineering, Yonsei University, Seoul, Korea  Awards  Group Achievement Award, 2017.</description>
-    </item>
-    
-    <item>
-      <title>Hyejin Ok</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/hyejinok/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/eng/people/hyejinok/</guid>
-      <description>Research interests  Ocean Mixed Layer Air-sea Interaction Climate Model Ocean General Circulation Model  Education  B.Sc (2013) in Atmospheric Sciences and Physics, Yonsei University, Seoul, Korea  Awards Publications  Ok, H.</description>
+      <description>Research interests  Remote sensing Trace gas retrievals Uncertainty estimation  Education  Ph.D. (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.</description>
     </item>
     
     <item>
@@ -728,7 +782,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/pyosukseo/</guid>
-      <description>Research interests  Aerosol in situ observation  Education  B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications  La, I.</description>
+      <description>Research interests  Aerosol in situ observation  Education  B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
     </item>
     
     <item>
@@ -737,7 +791,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/seoyounglee/</guid>
-      <description>Research interests  Retrieval of aerosols and trace gases from satellite or airborne based remote sensing measurements Estimation of the long-range transport of aerosols Radiative transfer model  Education  B.</description>
+      <description>Research interests  Retrieval of aerosols and trace gases from satellite or airborne based remote sensing measurements Estimation of the long-range transport of aerosols Radiative transfer model  Education  Ph.</description>
     </item>
     
     <item>
@@ -750,30 +804,12 @@
     </item>
     
     <item>
-      <title>Soo-Hyun Kim</title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/soohyunkim/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/eng/people/soohyunkim/</guid>
-      <description>Research interests  Aviation Turbulence Near Cloud Turbulence  Education  B.Sc (2013) in Science Education, Ewha Womans University, Seoul, Korea  Awards  Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the Brain Korea 21 plus (BK21+) project, Yonsei University in 22 February 2018 Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the Brain Korea 21 plus (BK21+) project, Yonsei University in 24 February 2017 Graduate school of Yonsei University research scholarship grants in 2017  Publications  Kim, S.</description>
-    </item>
-    
-    <item>
       <title>Yeonju Choi</title>
       <link>https://atmos.yonsei.ac.kr/eng/people/yeonjuchoi/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/people/yeonjuchoi/</guid>
       <description>Research interests  Ocean Mixed Layer Large Eddy Simulation Atmospheric Boundary Layer  Education  B.Sc (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  (2017) Outstanding Young Scientists Award in 9th International Workshop on Modeling the Ocean  Publications  Noh.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://atmos.yonsei.ac.kr/eng/people/dongheelee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/eng/people/dongheelee/</guid>
-      <description>Students+++ title = &amp;ldquo;Donghee Lee&amp;rdquo; date = &amp;ldquo;2018-03-24T13:39:46+02:00&amp;rdquo; teams = [&amp;ldquo;Students&amp;rdquo;] banner = &amp;ldquo;img/people/dongheelee.png&amp;rdquo; email = &amp;ldquo;awzsseed@yonsei.ac.kr&amp;rdquo; job = &amp;ldquo;Ph.D. student&amp;rdquo; phone = &amp;ldquo;02-2123-7264&amp;rdquo; room = &amp;ldquo;Atmospheric Chemistry Laboratory / 535 Science Hall &amp;quot; web = &amp;ldquo;https://atmchem.</description>
     </item>
     
   </channel>

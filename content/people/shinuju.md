@@ -23,5 +23,7 @@ web = " "
 #### Awards
 
 #### Publications
-+ Shin, U., T.-Y. Lee, and S.-H. Park, 2019: Environment and processes for heavy rainfall in the early morning over the Korean peninsula during episodes of cloud clusters associated with mesoscale troughs. J. Meteor. Soc. Japan, 97,https://doi.org/10.2151/jmsj.2019-036
-+ Shin, U. and T.-Y. Lee (2015), Origin, Evolution, Structure of Meso-α-scale Lows Associated with Cloud Clusters and Heavy Rainfall over the Korean Peninsula. Asia-Pacific J. Atmos. Sci., 51(3), 259−274.
++ **Shin, U**, S.-H. Park, J.-S. Park, J.-H. Koo, C. Yoo, S. Kim, and J.-B. Lee (2021), Predictability of PM2.5 in Seoul based on atmospheric blocking forecasts using the NCEP global forecast system, Atmospheric Environment, 246, 118141, https://doi.org/10.1016/j.atmosenv.2020.118141
++ Lee, T.-Y., **U. Shin**, and S.-H. Park (2020), Atmospheric Structure for Convective Development in the Events of Cloud Clusters over the Korean Peninsula, Asia-Pacific J. Atmos. Sci., https://doi.org/10.1007/s13143-020-00211-4 
++ **Shin, U.**, T.-Y. Lee, and S.-H. Park (2019), Environment and processes for heavy rainfall in the early morning over the Korean peninsula during episodes of cloud clusters associated with mesoscale troughs. J. Meteor. Soc. Japan, 97, https://doi.org/10.2151/jmsj.2019-036
++ **Shin, U.**, and T.-Y. Lee (2015), Origin, Evolution, Structure of Meso-α-scale Lows Associated with Cloud Clusters and Heavy Rainfall over the Korean Peninsula. Asia-Pacific J. Atmos. Sci., 51(3), 259−274, https://doi.org/10.1007/s13143-015-0076-3

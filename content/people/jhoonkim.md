@@ -2,7 +2,7 @@
 title = "Jhoon Kim"
 date = "2018-04-14T13:39:46+02:00"
 teams = ["Faculty"]
-banner = "img/people/jhoonkim2.jpg"
+banner = "img/people/jhoonkim2_small.jpg"
 email = "jkim2@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5682"

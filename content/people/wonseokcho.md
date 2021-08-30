@@ -1,5 +1,4 @@
 +++
-
 title = "Wonseok Cho"
 date = "2020-03-13T18:10:46+02:00"
 teams = ["Students"]
@@ -14,9 +13,10 @@ weight = 50
 
 #### Research interests
  + Regional modeling land-atmosphere interaction
+ + Regional chemical transport modeling
 
 #### Education
- + **B.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
+ + **B.Sc** (2019) in Atmospheric Sciences & Mechanical Engineering, Yonsei University, Seoul, Korea
 
 #### Awards
 
