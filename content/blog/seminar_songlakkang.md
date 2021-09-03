@@ -1,7 +1,7 @@
 +++
 title = "[Seminar] Prof. Song-Lak Kang"
-date = 2018-06-04T8:49:47+09:00
-categories = ["seminar"]
+date = 2018-06-04T08:49:47+09:00
+categories = ["Seminar"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++

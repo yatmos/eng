@@ -1,7 +1,7 @@
 +++
 title = "[Seminar] Prof. Keith McNaughton"
-date = 2018-07-23T8:49:47+09:00
-categories = ["seminar"]
+date = 2018-07-23T08:49:47+09:00
+categories = ["Seminar"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
