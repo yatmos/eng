@@ -1,4 +1,4 @@
-baseurl = "https://atmos.yonsei.ac.kr/eng/"
+baseurl = "https://yatmos.github.io/eng/"
 title = "Department of Atmospheric Sciences, Yonsei University"
 theme = "hugo-universal-theme"
 
