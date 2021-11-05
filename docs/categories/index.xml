@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Department of Atmospheric Sciences, Yonsei University</title>
-    <link>https://atmos.yonsei.ac.kr/eng/categories/</link>
+    <link>https://yatmos.github.io/eng/categories/</link>
     <description>Recent content in Categories on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Nov 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/eng/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Nov 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://yatmos.github.io/eng/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>seminar</title>
-      <link>https://atmos.yonsei.ac.kr/eng/categories/seminar/</link>
+      <link>https://yatmos.github.io/eng/categories/seminar/</link>
       <pubDate>Fri, 05 Nov 2021 10:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/categories/seminar/</guid>
+      <guid>https://yatmos.github.io/eng/categories/seminar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>https://atmos.yonsei.ac.kr/eng/categories/news/</link>
+      <link>https://yatmos.github.io/eng/categories/news/</link>
       <pubDate>Tue, 03 Mar 2020 13:42:03 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/categories/news/</guid>
+      <guid>https://yatmos.github.io/eng/categories/news/</guid>
       <description></description>
     </item>
     

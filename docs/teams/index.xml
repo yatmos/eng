@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on Department of Atmospheric Sciences, Yonsei University</title>
-    <link>https://atmos.yonsei.ac.kr/eng/teams/</link>
+    <link>https://yatmos.github.io/eng/teams/</link>
     <description>Recent content in Teams on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 13:39:46 +0200</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/eng/teams/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 13:39:46 +0200</lastBuildDate><atom:link href="https://yatmos.github.io/eng/teams/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Researchers</title>
-      <link>https://atmos.yonsei.ac.kr/eng/teams/researchers/</link>
+      <link>https://yatmos.github.io/eng/teams/researchers/</link>
       <pubDate>Thu, 24 Dec 2020 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/teams/researchers/</guid>
+      <guid>https://yatmos.github.io/eng/teams/researchers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Students</title>
-      <link>https://atmos.yonsei.ac.kr/eng/teams/students/</link>
+      <link>https://yatmos.github.io/eng/teams/students/</link>
       <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/teams/students/</guid>
+      <guid>https://yatmos.github.io/eng/teams/students/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faculty</title>
-      <link>https://atmos.yonsei.ac.kr/eng/teams/faculty/</link>
+      <link>https://yatmos.github.io/eng/teams/faculty/</link>
       <pubDate>Tue, 17 Apr 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/teams/faculty/</guid>
+      <guid>https://yatmos.github.io/eng/teams/faculty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retired</title>
-      <link>https://atmos.yonsei.ac.kr/eng/teams/retired/</link>
+      <link>https://yatmos.github.io/eng/teams/retired/</link>
       <pubDate>Mon, 10 Apr 2017 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/teams/retired/</guid>
+      <guid>https://yatmos.github.io/eng/teams/retired/</guid>
       <description></description>
     </item>
     
