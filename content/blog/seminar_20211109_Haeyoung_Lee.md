@@ -1,6 +1,6 @@
 ﻿+++
 title = "[Seminar] Dr. Haeyoung Lee"
-date = 2021-11-05T10:00:00+09:00
+date = 2021-11-05T11:00:00+09:00
 categories = ["Seminar"]
 banner = "img/placeholder.png"
 icon = "microphone"
