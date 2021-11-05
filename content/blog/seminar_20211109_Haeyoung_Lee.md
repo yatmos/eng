@@ -8,7 +8,7 @@ icon = "microphone"
 ### The observations of atmospheric CO2 and 14CO2 at KMA/GAW regional stations, their characteristics, and implications.
 <br>
 #### Dr. Haeyoung Lee (National Institute of Meteorological Sciences, Korea Meteorological Administration)
-#### November 09, 2021 (Friday) 16:00
+#### November 09, 2021 (Tuesday) 16:00
 #### Zoom
 <br>
 #### Abstract
