@@ -6,7 +6,7 @@
     <description>Recent content on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Nov 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://yatmos.github.io/eng/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 09:00:00 +0900</lastBuildDate><atom:link href="https://yatmos.github.io/eng/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yign Noh</title>
       <link>https://yatmos.github.io/eng/people/yignnoh/</link>
@@ -697,7 +697,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://yatmos.github.io/eng/people/songkang/</guid>
-      <description>Research interests  Polar Research for Atmospheric Chemistry   Education  B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
+      <description>Research interests  Polar Research for Atmospheric Chemistry +  Education  B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
     </item>
     
     <item>
@@ -851,6 +851,15 @@
       
       <guid>https://yatmos.github.io/eng/people/yeonjuchoi/</guid>
       <description>Research interests  Ocean Mixed Layer Large Eddy Simulation Atmospheric Boundary Layer  Education  B.Sc (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  (2017) Outstanding Young Scientists Award in 9th International Workshop on Modeling the Ocean  Publications  Noh.</description>
+    </item>
+    
+    <item>
+      <title>[Seminar] Dr. Andrea Molod</title>
+      <link>https://yatmos.github.io/eng/blog/2021/11/16/seminar_20211119_andrea_molod/</link>
+      <pubDate>Tue, 16 Nov 2021 09:00:00 +0900</pubDate>
+      
+      <guid>https://yatmos.github.io/eng/blog/2021/11/16/seminar_20211119_andrea_molod/</guid>
+      <description>The GMAO High‐Resolution Coupled Model and Coupled Assimilation System for Seasonal Prediction The Global Modeling and Assimilation Office (GMAO) is about to release a new version of the Goddard Earth Observing System (GEOS) Subseasonal to Seasonal prediction (S2S) system, GEOS‐S2S‐3, that represents an improvement in performance and infrastructure over the previous system, GEOS-S2S-2.</description>
     </item>
     
     <item>
