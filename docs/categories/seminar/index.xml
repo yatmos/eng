@@ -6,7 +6,16 @@
     <description>Recent content in seminar on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Nov 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://yatmos.github.io/eng/categories/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 09:00:00 +0900</lastBuildDate><atom:link href="https://yatmos.github.io/eng/categories/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Seminar] Dr. Andrea Molod</title>
+      <link>https://yatmos.github.io/eng/blog/2021/11/16/seminar_20211119_andrea_molod/</link>
+      <pubDate>Tue, 16 Nov 2021 09:00:00 +0900</pubDate>
+      
+      <guid>https://yatmos.github.io/eng/blog/2021/11/16/seminar_20211119_andrea_molod/</guid>
+      <description>The GMAO High‐Resolution Coupled Model and Coupled Assimilation System for Seasonal Prediction The Global Modeling and Assimilation Office (GMAO) is about to release a new version of the Goddard Earth Observing System (GEOS) Subseasonal to Seasonal prediction (S2S) system, GEOS‐S2S‐3, that represents an improvement in performance and infrastructure over the previous system, GEOS-S2S-2.</description>
+    </item>
+    
     <item>
       <title>[Seminar] Dr. Haeyoung Lee</title>
       <link>https://yatmos.github.io/eng/blog/2021/11/05/seminar_20211109_haeyoung_lee/</link>
