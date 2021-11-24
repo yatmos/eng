@@ -6,7 +6,11 @@
     <description>Recent content in Students on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2020 13:39:46 +0200</lastBuildDate><atom:link href="https://yatmos.github.io/eng/teams/students/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Mar 2020 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://yatmos.github.io/eng/teams/students/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Soong-Ki Kim</title>
       <link>https://yatmos.github.io/eng/people/kimsoongki/</link>
@@ -35,6 +39,15 @@
     </item>
     
     <item>
+      <title>Dayeong Lee</title>
+      <link>https://yatmos.github.io/eng/people/dayeonglee_e/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/eng/people/dayeonglee_e/</guid>
+      <description>Research interests  Remote Sensing for Atmospheric Chemistry Spatiotemporal Variation of PM2.5 over the Korean Peninsula using Reanalysis Data  Education  B.</description>
+    </item>
+    
+    <item>
       <title>Dongcheol Kim</title>
       <link>https://yatmos.github.io/eng/people/dongcheolkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -49,7 +62,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://yatmos.github.io/eng/people/dongheelee/</guid>
-      <description>Research interests  Remote Sensing for Atmospheric Chemistry Spatiotemporal Variation Analysis of Hydrocarbons from Wildfires Analysis of Differences of Wildfires between Continents  Education  M.</description>
+      <description>Research interests  Spatio-temporal Variation Analysis of Hydrocarbons from Wildfires Estimation of Plume Height from Wildfire Using Remote Sensing  Education  M.</description>
     </item>
     
     <item>
@@ -113,6 +126,15 @@
       
       <guid>https://yatmos.github.io/eng/people/jongsooshin/</guid>
       <description>Research interests  Heat waves Change of SST RCM simulation GCM simulation  Education  M.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.</description>
+    </item>
+    
+    <item>
+      <title>Juhee Lee</title>
+      <link>https://yatmos.github.io/eng/people/juheelee_e/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/eng/people/juheelee_e/</guid>
+      <description>Research interests  Prediction of PM2.5 over the Korean Peninsula using Machine Learning Model Analysis of Aerosol Optical Properties using Sky-radiometer Observation  Education  B.</description>
     </item>
     
     <item>
