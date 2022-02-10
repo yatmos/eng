@@ -1,10 +1,10 @@
-+++
+﻿+++
 title = "Uju Shin"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["Researchers"]
 banner = "img/people/shinuju.png"
 email = "shinuju@yonsei.ac.kr"
-job = "Postdoctoral Researcher"
+job = "Research Professor"
 phone = "02-2123-3872"
 room = "Laboratory for Atmospheric Modeling Research / Science Hall 536B"
 weight = 40
