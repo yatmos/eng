@@ -7,7 +7,7 @@ email = "kdhui@yonsei.ac.kr"
 job = "Ph.D. student"
 phone = "02-2123-4815"
 room = "Atmospheric Predictability and Data Assimilation Laboratory / Science Hall 530 B"
-web = "http://web.yonsei.ac.kr/apdal"
+web = "apdal.yonsei.ac.kr"
 weight = 40
 +++
 
@@ -24,6 +24,7 @@ weight = 40
 + (2018.12) Seong-Gi Jeong Graduate Student Best Paper Award by Yonsei University
 
 #### Publications
++ Kim, H. M., and D.-H. Kim, 2021: Effect of boundary conditions on adjoint-based forecast sensitivity observation impact in a regional model. Journal of Atmospheric and Oceanic Technology, 38, 1233-1247, doi:10.1175/JTECH-D-20-0040.1.
 + Kim, D.-H., H. M. Kim, and J. Hong, 2019: Evaluation of wind forecasts over Svalbard using the high-resolution Polar WRF with 3DVAR, Arctic, Antarctic, and Alpine Research, 51, 471-489, doi:10.1080/ 15230430.2019.1676939.
 + Kim, D.-H., and H. M. Kim, 2018: Effect of assimilating Himawari-8 atmospheric motion vectors on forecast errors over East Asia, Journal of Atmospheric and Oceanic Technology, 35, 1737-1752, doi:10.1175/JTECH-D-17-0093.1.
 + Kim, H., H. M. Kim, M. K. Cho, J. Park, and D.-H. Kim, 2018:  Development of the aircraft CO₂ measurement data assimilation system to improve the estimation of surface CO₂ fluxes using an inverse modeling system, Atmosphere, 28(2), 1-9, doi:10.14191/Atmos.2018.28.2.1. (in Korean with English abstract)

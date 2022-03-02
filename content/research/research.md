@@ -20,7 +20,7 @@ The interaction between the atmosphere and the ocean is critical to the earth cl
 
 <br>
 
-#### Atmospheric Predictability & Data Assimilation Laboratory [(http://web.yonsei.ac.kr/apdal)](http://web.yonsei.ac.kr/apdal)
+#### Atmospheric Predictability and Data Assimilation Laboratory [(apdal.yonsei.ac.kr)](apdal.yonsei.ac.kr)
 In APDAL, inherent predictability of weather and climate, model and data assimilation systems, and adaptive observations are studied to improve the quality of numerical weather prediction. In addition, we also study dynamical development of forecast error and high impact weather systems using observations, models, and various theories Including potential vorticity thinking.
 
 <br>

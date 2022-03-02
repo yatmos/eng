@@ -7,7 +7,7 @@ email = "seomg96@yonsei.ac.kr"
 job = "Ph.D. student"
 phone = "02-2123-4815"
 room = "Atmospheric Predictability and Data Assimilation Laboratory / Science Hall 530 B"
-web = "http://web.yonsei.ac.kr/apdal"
+web = "apdal.yonsei.ac.kr"
 weight = 50
 +++
 
@@ -19,5 +19,6 @@ weight = 50
 + **B.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Awards
++ Best Paper Award for Master student in Yonsei University (2022.01.12)
 
 #### Publications
