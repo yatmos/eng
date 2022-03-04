@@ -35,7 +35,6 @@ weight = 5
 + Data Assimilation
 + Meteorological Disasters
 + Environment and Atmosphere
-+ Introduction to Atmospheric Sciences
 + Atmospheric Dynamics Ⅰ, Atmospheric Dynamics Ⅱ
 + Predictability Theory
 
