@@ -6,7 +6,11 @@
     <description>Recent content in Students on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2020 13:39:46 +0200</lastBuildDate><atom:link href="https://yatmos.github.io/eng/teams/students/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Mar 2020 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://yatmos.github.io/eng/teams/students/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Soong-Ki Kim</title>
       <link>https://yatmos.github.io/eng/people/kimsoongki/</link>
@@ -158,6 +162,15 @@
       
       <guid>https://yatmos.github.io/eng/people/kyoungminkim/</guid>
       <description>Research interests  Aerosol regional model simulation Dust model simulation Atmospheric chemistry  Education  B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
+    </item>
+    
+    <item>
+      <title>Minju Park</title>
+      <link>https://yatmos.github.io/eng/people/minjupark/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/eng/people/minjupark/</guid>
+      <description>Research interests  Spatiotemporal characteristics of polar and mid-latitude ozone  Education  B.Sc (2022) in Atmospheric Science, Yonsei University, Seoul, Korea  Awards Publications </description>
     </item>
     
     <item>
@@ -401,15 +414,6 @@
       
       <guid>https://yatmos.github.io/eng/people/sehyunlee/</guid>
       <description>Research interests  Atmospheric Modeling  Education  B.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea  Awards Publications </description>
-    </item>
-    
-    <item>
-      <title>Songkang Kim</title>
-      <link>https://yatmos.github.io/eng/people/songkang/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/songkang/</guid>
-      <description>Research interests  Polar Research for Atmospheric Chemistry +  Education  B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards Publications </description>
     </item>
     
     <item>
