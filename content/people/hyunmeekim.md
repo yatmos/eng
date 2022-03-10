@@ -7,7 +7,7 @@ email = "khm@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5683"
 room = "Atmospheric Predictability and Data Assimilation Laboratory / Science Hall #541"
-web = "apdal.yonsei.ac.kr"
+web = "https://apdal.yonsei.ac.kr"
 weight = 5
 +++
 
