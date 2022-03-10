@@ -11,7 +11,7 @@ web = "http://airsea.yonsei.ac.kr"
 weight = 50
 +++
 
-#### Research interests
+#### Research interests 
 + Air-sea coupled modeling
 + Southern Ocean carbon exchange
 
@@ -21,6 +21,10 @@ weight = 50
 + **B.Sc** (2019) in Atmospheric and Environmental Sciences, Gangneung-Wonju National University, Gangneung, Korea
 
 
+
 #### Awards
 
+
 #### Publications
++ Kwak, K., Song, H., Marshall, J., Seo, H. and McGillicuddy, D. J. Jr. (2021). Suppressed pCO2 in the Southern Ocean due to the interaction between current and wind. Journal of Geophysical Research: Oceans, 126, e2021JC017884
++ Hur, I., M. KIM, K. Kwak, H.M. Sung, Y-H Byun, H. Song and C. Yoo (2021). Hadley circulation in the present and future climate simulations of the K-ACE model. Asia-Pacific Journal of Atmospheric Sciences, in press

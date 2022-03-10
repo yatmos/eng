@@ -1,9 +1,9 @@
 +++
-title = "Cho-Hyun Rhee"
+title = "Chae-Hyeong Lee"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["Students"]
-banner = "img/people/chohyunrhee.jpg"
-email = "chohyun@yonsei.ac.kr"
+banner = "img/people/chaehyeonglee.jpeg"
+email = "lch204ok@yonsei.ac.kr"
 job = "M.Sc. student"
 phone = "02-2123-7608"
 room = "Air-Sea Modeling Labotoratory / Science Hall 532"
@@ -12,13 +12,14 @@ weight = 50
 +++
 
 #### Research interests
-+ Air-sea coupled modeling
-
++ Air-sea interactions
++ Persistence of sea surface temperature anomalies
 
 #### Education
-+ **B.Sc** (2018) Environmental Science and Ecological Engineering, Korea University, Seoul, Korea
 
++ **B.Sc** (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Awards
+
 
 #### Publications
