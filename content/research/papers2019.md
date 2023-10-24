@@ -2,7 +2,7 @@
 title = "Publications in 2019"
 description = "Global Environment Research Center"
 type = "research"
-icon = "newspaper-o"
+icon = "newspaper"
 weight = 4
 +++
 
