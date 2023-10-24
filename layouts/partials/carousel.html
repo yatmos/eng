@@ -9,16 +9,13 @@
                 {{ range sort .Site.Data.carousel "weight" }}
                 <div class="item">
                     <div class="row">
-                        <div class="col-sm-7 right">
-                            <h1>{{ .title }}</h1>
-                            {{ .description | safeHTML }}
-                        </div>
-                        <div class="col-sm-5">
-                            <div class="center-block">
+                        <div class="col-sm-12">
                             <a href="{{ .dest }}">
+                                <br>
+                                <h3>{{ .title }}</h3>
+                                <p style="color: gray">{{ .description | safeHTML }}</p>
                                 <img class="img-responsive" src="{{ .image }}" alt="">
                             </a>
-                            </div>
                         </div>
                     </div>
                 </div>
