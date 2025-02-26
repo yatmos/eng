@@ -5,7 +5,6 @@ teams = ["Faculty"]
 banner = "img/people/jhoonkim2_small.jpg"
 email = "jkim2@yonsei.ac.kr"
 job = "Professor"
-job2 = "Yonsei Lee Youn Jae Fellow"
 phone = "02-2123-5682"
 room = "Atmospheric Radiation Laboratory / Science Hall #545"
 web = "http://atrad.yonsei.ac.kr"
@@ -24,24 +23,26 @@ weight = 4
 + **B.S.** (1986)  Atmospheric Sciences, College of Natural Sci., Seoul National University, Seoul, Korea
 
 #### Professional Experience
-+ 2003 - present:  Yonsei Lee Youn Jae Fellow Professor of Atmospheric Sciences, Yonsei University, Seoul, Korea
++ 2003 - present :   Yonsei Lee Youn Jae Fellow Professor of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + 1991 - 2003    :   Principal Researcher, Senior Researcher, Korea Aerospace Research Institute (KARI)
-+ 2021 - present : Fellow, the Korea Academy of Science and Technology (KAST)
-+ 2021 - 2022.   :   Director, Particulate Matter Research Institute/Carbon Capture Research Institute, Samsung Advanced Institute of Technology (SAIT)
-+ 2017 - 2020    :   Commissioner, IRC (International Radiation Commission)
-+ 2017 - present :  Member, Science Advisory Group (SAG), WMO GAW Urban Research Meteorology and Environment (GURME)
-+ 2016 - 2017    : Visiting Scientist, Atmospheric Measurement Group, Harvard Smithonian Center for Astrophysics
-+ 2014 - 2017.   : Member, WHO Global Platform for Air Quality and Health
-+ 2012 - present :  P.I., GEMS (Geostationary Environment Monitoring Spectrometer)
-+ 2010 - present     :   Member,  CEOS (Committee on Earth Observing Satellites) AC-VC
-+ 2009 - 2010    :  Visiting Independent Advisor, NASA Jet Propulsion Laboratory, CalTech; Visiting Scholar, UCLA
++ 2021 - present :   Fellow, the Korea Academy of Science and Technology (KAST)
++ 2021 - 2022    :   Director, Particulate Matter Research Institute/Carbon Capture Research Institute, Samsung Advanced Institute of Technology (SAIT)
++ 2017 - 2024    :   Commissioner, IRC (International Radiation Commission)
++ 2017 - 2024    :   Member, Science Advisory Group (SAG), WMO GAW Urban Research Meteorology and Environment (GURME)
++ 2016 - 2017    :   Visiting Scientist, Atmospheric Measurement Group, Harvard | Smithonian Center
++ 2014 - 2017    :   Member, WHO Global Platform for Air Quality and Health
++ 2012 - present :   P.I., GEMS (Geostationary Environment Monitoring Spectrometer)
++ 2012 - 2020    :   Commissioner, International Ozone Commission (IO3C)
++ 2010 - present :   Member,  CEOS (Committee on Earth Observing Satellites) AC-VC
++ 2009 - 2010    :   Visiting Independent Advisor, NASA Jet Propulsion Laboratory, CalTech; Visiting Scholar, UCLA
 
 
 #### Awards
-+ 2019. 4        :       Medal of Honor in Science and Technology, President, Republic of Korea
++ 2024. 9       :       Alumni Merit Award, College of Engineering, University of Michigan, Ann Arbor, MI, USA
++ 2024, 2017     :       NASA Group Achievement Award, NASA
++ 2019. 4        :       Medal of Honor in Science and Technology, The President, Republic of Korea
 + 2018. 2        :       Contributed Professor Award, Yonsei University
 + 2018. 1        :       Scientist of the Month, Korea Research Foundation(NRF), Ministry of Science, Technology and ICT
-+ 2017. 6        :       NASA Group Achievement Award, NASA
 
 #### Courses
 + Atmospheric Environment
