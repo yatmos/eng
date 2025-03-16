@@ -2,550 +2,431 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Students on Department of Atmospheric Sciences, Yonsei University</title>
-    <link>https://yatmos.github.io/eng/teams/students/</link>
+    <link>http://localhost:1313/eng/teams/students/</link>
     <description>Recent content in Students on Department of Atmospheric Sciences, Yonsei University</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2020 13:39:46 +0200</lastBuildDate><atom:link href="https://yatmos.github.io/eng/teams/students/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Mar 2020 13:39:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/eng/teams/students/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Soong-Ki Kim</title>
-      <link>https://yatmos.github.io/eng/people/kimsoongki/</link>
+      <link>http://localhost:1313/eng/people/kimsoongki/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/kimsoongki/</guid>
-      <description>Research interests Nonlinear ENSO Theory &amp;amp; Dynamics AMOC Education M.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2017) in Atmospheric Science, Physics, Yonsei University, Seoul, Korea Awards Publications S.</description>
+      <guid>http://localhost:1313/eng/people/kimsoongki/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Nonlinear ENSO Theory &amp;amp; Dynamics&lt;/li&gt;&#xA;&lt;li&gt;AMOC&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Science, Physics, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;S.-K. Kim, S.-I. An (2020) Untangling El Niño-La Niña Asymmetries Using a Nonlinear Coupled Dynamic Index, Geophysical Research Letters, e2019GL085881&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Dae-Hui Kim</title>
-      <link>https://yatmos.github.io/eng/people/daehuikim/</link>
+      <link>http://localhost:1313/eng/people/daehuikim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/daehuikim/</guid>
-      <description>Research interests Data assimilation Polar Weather Prediction Education B.Sc (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards (2020.02) Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the BK21+ project, Yonsei University (2019.</description>
+      <guid>http://localhost:1313/eng/people/daehuikim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Data assimilation&lt;/li&gt;&#xA;&lt;li&gt;Polar Weather Prediction&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2020.02) Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the BK21+ project, Yonsei University&lt;/li&gt;&#xA;&lt;li&gt;(2019.02) Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the BK21+ project, Yonsei University&lt;/li&gt;&#xA;&lt;li&gt;(2018.12) Seong-Gi Jeong Graduate Student Best Paper Award by Yonsei University&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kim, D.-H., H. M. Kim, and J. Hong, 2019: Evaluation of wind forecasts over Svalbard using the high-resolution Polar WRF with 3DVAR, Arctic, Antarctic, and Alpine Research, 51, 471-489, doi:10.1080/ 15230430.2019.1676939.&lt;/li&gt;&#xA;&lt;li&gt;Kim, D.-H., and H. M. Kim, 2018: Effect of assimilating Himawari-8 atmospheric motion vectors on forecast errors over East Asia, Journal of Atmospheric and Oceanic Technology, 35, 1737-1752, doi:10.1175/JTECH-D-17-0093.1.&lt;/li&gt;&#xA;&lt;li&gt;Kim, H., H. M. Kim, M. K. Cho, J. Park, and D.-H. Kim, 2018:  Development of the aircraft CO₂ measurement data assimilation system to improve the estimation of surface CO₂ fluxes using an inverse modeling system, Atmosphere, 28(2), 1-9, doi:10.14191/Atmos.2018.28.2.1. (in Korean with English abstract)&lt;/li&gt;&#xA;&lt;li&gt;Noh, K., H. M. Kim, and D.-H. Kim, 2018: Development of the three-dimensional variational data assimilation system for the Republic of Korea Air Force operational numerical weather prediction system, Journal of the Korea Institute of Military Science and Technology, 21(3), 403-412, doi:10.9766/KIMST.2018.21.3.403. (in Korean with English abstract)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Dan-Bi Lee</title>
-      <link>https://yatmos.github.io/eng/people/danbilee/</link>
+      <link>http://localhost:1313/eng/people/danbilee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/danbilee/</guid>
-      <description>Research interests Aviation Turbulence Education M.Sc (2013) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2011) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards (2019.</description>
+      <guid>http://localhost:1313/eng/people/danbilee/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aviation Turbulence&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2013) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2011) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2019.2.26) Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the BK21+ project, Yonsei University&lt;/li&gt;&#xA;&lt;li&gt;(2018.3.23) The award of director-general of aviation meteorological office&lt;/li&gt;&#xA;&lt;li&gt;(2014.10.14) Best paper presentation award in Korean meteorological society fall meeting&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lee, D.-B., and H.-Y. Chun (2014), Development of the seasonal Korean aviation turbulence guidance (KTG) system using the regional unified model of the Korea meteorological administration (KMA), Atmosphere, 24(2), 235-243.&lt;/li&gt;&#xA;&lt;li&gt;Lee, D.-B., and H.-Y. Chun (2015), A statistical analysis of aviation turbulence observed in pilot report (PIREP) over East Asia including South Korea, Atmosphere, 25(1), 1-12.&lt;/li&gt;&#xA;&lt;li&gt;Lee, D.-B., and H.-Y. Chun (2015), Development of the Korean Peninsula-Korean aviation turbulence guidance (KP-KTG) system using the local data assimilation and prediction system (LDAPS) of the Korea meteorological administration (KMA), Atmosphere, 25(2), 367-374.&lt;/li&gt;&#xA;&lt;li&gt;Lee, D.-B., and H.-Y. Chun (2018), A numerical study of aviation turbulence encountered on 13 February 2013 over the Yellow Sea between China and the Korean Peninsula. J. Appl. Meteor. Climatol., 57, 1043-1060.&lt;/li&gt;&#xA;&lt;li&gt;Lee, D.-B., and H.-Y. Chun (2018), Development of the global-Korean aviation turbulence guidance (Global-KTG) system using the global data assimilation and prediction system (GDAPS) of the Korea meteorological administraion (KMA), Atmosphere, 28(2), 223-232.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Dongcheol Kim</title>
-      <link>https://yatmos.github.io/eng/people/dongcheolkim/</link>
+      <link>http://localhost:1313/eng/people/dongcheolkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/dongcheolkim/</guid>
-      <description>Research interests IR-based rainfall estimation Surface Solar Radiation Satellite Retrievals, Education M.Sc (2016) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ., Gangneung, Korea B.</description>
+      <guid>http://localhost:1313/eng/people/dongcheolkim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;IR-based rainfall estimation&lt;/li&gt;&#xA;&lt;li&gt;Surface Solar Radiation&lt;/li&gt;&#xA;&lt;li&gt;Satellite Retrievals,&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2016) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ., Gangneung, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2014) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. , Gangneung, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2014) Excellenct paper publication Award in the Korean Society of Remote Sensing - Inferring atmospheric optical property during nighttime by utilizing the pictures of the moon from digital camera&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;p&gt;Kim and Jeong (2016), Derivations of Surface Solar Radiation from Polar Orbiting Satellite Observations, Korean Journal of Remote Sensing, Vol.32, No.3, 2016, pp.201~220&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Donghee Lee</title>
-      <link>https://yatmos.github.io/eng/people/dongheelee/</link>
+      <link>http://localhost:1313/eng/people/dongheelee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/dongheelee/</guid>
-      <description>Research interests Remote Sensing for Atmospheric Chemistry Spatiotemporal Variation Analysis of Hydrocarbons from Wildfires Analysis of Differences of Wildfires between Continents Education M.</description>
+      <guid>http://localhost:1313/eng/people/dongheelee/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Remote Sensing for Atmospheric Chemistry&lt;/li&gt;&#xA;&lt;li&gt;Spatiotemporal Variation Analysis of Hydrocarbons from Wildfires&lt;/li&gt;&#xA;&lt;li&gt;Analysis of Differences of Wildfires between Continents&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.E&lt;/strong&gt; (2017) in Earth and Environmental Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.E&lt;/strong&gt; (2015) in Urben Engineering, Chungbuk National University, Cheongju, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Doyoon Kwon</title>
-      <link>https://yatmos.github.io/eng/people/doyoonkwon/</link>
+      <link>http://localhost:1313/eng/people/doyoonkwon/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/doyoonkwon/</guid>
-      <description>Research interests Regional modeling land-atmosphere interaction Education B.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/doyoonkwon/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Regional modeling land-atmosphere interaction&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;B.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Eun-Sook Heo</title>
-      <link>https://yatmos.github.io/eng/people/eunsookheo/</link>
+      <link>http://localhost:1313/eng/people/eunsookheo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/eunsookheo/</guid>
-      <description>Research interests El Nino-Southern Oscillation (ENSO) Arctic Sea ice Feedback processes Pacific Decadal Oscillation Education M.Sc (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.</description>
+      <guid>http://localhost:1313/eng/people/eunsookheo/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;El Nino-Southern Oscillation (ENSO)&lt;/li&gt;&#xA;&lt;li&gt;Arctic Sea ice&lt;/li&gt;&#xA;&lt;li&gt;Feedback processes&lt;/li&gt;&#xA;&lt;li&gt;Pacific Decadal Oscillation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An, S. -I., E. S. Heo, and S. T. Kim (2017), Feedback processes responsible for intermodel diversity of ENSO variability, Geophys. Res. Lett., 44, 4272-4279.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Hyo-Jeong Kim</title>
-      <link>https://yatmos.github.io/eng/people/hyojeongkim/</link>
+      <link>http://localhost:1313/eng/people/hyojeongkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/hyojeongkim/</guid>
-      <description>Research interests Paleoclimate External forcing and climate change Atmosphere-ocean coupled variability Education M.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.</description>
+      <guid>http://localhost:1313/eng/people/hyojeongkim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Paleoclimate&lt;/li&gt;&#xA;&lt;li&gt;External forcing and climate change&lt;/li&gt;&#xA;&lt;li&gt;Atmosphere-ocean coupled variability&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2016) Award for outstanding presentation in Korean Meteorological Society spring meeting, Influence of orbital forcing on the ENSO-East Asia winter monsoon relationship&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;S.-I. An, H.-J. Kim, W. Park, and B. Schneider (2017) Impact of ENSO on East Asian winter monsoon&#xA;during interglacial periods: effect of orbital forcing, Clim Dyn 49:3209-3219&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Hyunkwang Lim</title>
-      <link>https://yatmos.github.io/eng/people/hyunkwanglim/</link>
+      <link>http://localhost:1313/eng/people/hyunkwanglim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/hyunkwanglim/</guid>
-      <description>Research interests Remote sensing of aerosol from satellite Radiative transfer model Validation and error estimation of aerosol optical properties from geostationary satellite using ground based and satellite-based observations Education B.</description>
+      <guid>http://localhost:1313/eng/people/hyunkwanglim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Remote sensing of aerosol from satellite&lt;/li&gt;&#xA;&lt;li&gt;Radiative transfer model&lt;/li&gt;&#xA;&lt;li&gt;Validation and error estimation of aerosol optical properties from geostationary satellite using ground based and satellite-based observations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2013) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Group Achievement Award, 2017.08, NASA &amp;ldquo;KORUS-AQ: An International Cooperative Air Quality Field Study in Korea&amp;rdquo; project&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Kim, J., Kim, J., Cho, H. K., Herman, J., Park, S. S., Lim, H., Kim, J., Miyagawa, K., and Lee, Y.,: Intercomparison of total column ozone data from the Pandora spectrophotometer with Dobson, Brewer, and OMI measurements over Seoul, Korea. Atmospheric Measurement Techniques, 10(10), 3661,2017&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Jeongwon Kim</title>
-      <link>https://yatmos.github.io/eng/people/jeongwonkim/</link>
+      <link>http://localhost:1313/eng/people/jeongwonkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/jeongwonkim/</guid>
-      <description>연구분야 Regional climate modeling Arctic Modeling Education M.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc</description>
+      <guid>http://localhost:1313/eng/people/jeongwonkim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Regional climate modeling&lt;/li&gt;&#xA;&lt;li&gt;Arctic Modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;M.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;B.Sc (2017) in Atmospheric Sciences &amp;amp; Business Administration, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2019) Best Presentation in the 2019 fall conference of Korean Meteorological Society&lt;/li&gt;&#xA;&lt;li&gt;(2017) Best university graduate award from the Korea Meteorological Society&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lee, K. et al. (2021) Partitioning of net CO2 exchanges at the city-atmosphere interface into biotic and abiotic components. MethodsX, 8, 101231.&lt;/li&gt;&#xA;&lt;li&gt;Kim, J. et al. (2020) Evaluation of land-atmosphere processes of the Polar WRF in the summertime Arctic tundra. Atmospheric Research, 240, 104946.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Ji-Hee Yoo</title>
-      <link>https://yatmos.github.io/eng/people/jhyoo/</link>
+      <link>http://localhost:1313/eng/people/jhyoo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/jhyoo/</guid>
-      <description>Research interests Inertia-gravity waves radiosonde observation over Antarctica Education M.Sc (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Global Ph.</description>
+      <guid>http://localhost:1313/eng/people/jhyoo/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Inertia-gravity waves&lt;/li&gt;&#xA;&lt;li&gt;radiosonde observation over Antarctica&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Global Ph.D Fellowship, National Research Foundation of Korea (2019.08.20)&lt;/li&gt;&#xA;&lt;li&gt;Best Paper Award nominated by institute of Earth-Atmosphere-Astronomy in the BK21+ project, Yonsei University (2019 .02. 26)&lt;/li&gt;&#xA;&lt;li&gt;Best Paper Award for Master student in Yonsei University (2018. 11. 20)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Yoo, J.-H., T. Choi, H.-Y. Chun, Y.-H. Kim, I.-S. Song, and B.-G. Song, 2018: Inertia-gravity waves revealed in radiosonde data at Jang Bogo Station, Antarctica (74° 37′ S, 164° 13′ E): 1. Characteristics, energy, and momentum flux. J. Geophys. Res. Atmos.. 123(23), 13,305-13,331.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Jongsoo Shin</title>
-      <link>https://yatmos.github.io/eng/people/jongsooshin/</link>
+      <link>http://localhost:1313/eng/people/jongsooshin/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/jongsooshin/</guid>
-      <description>Research interests Heat waves Change of SST RCM simulation GCM simulation Education M.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.</description>
+      <guid>http://localhost:1313/eng/people/jongsooshin/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Heat waves&lt;/li&gt;&#xA;&lt;li&gt;Change of SST&lt;/li&gt;&#xA;&lt;li&gt;RCM simulation&lt;/li&gt;&#xA;&lt;li&gt;GCM simulation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2017) Award for Outstanding Poster in the Korean Society of Climate Chnage Research, Health Influence of the heat wave and Climate Chnage Adaptation Policy: Heat waves Adaptation of Local Governments.&lt;/li&gt;&#xA;&lt;li&gt;(2018) Outstanding Papers in Yonsei BK21 Plus, Projected Heat Wave Characteristics over the Korean Peninsula During the Twenty-First Century.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;J. Shin, Olson Roman, and S-I An (2018), Projected Heat Wave Characteristics over the Korean Peninsula During the Twenty-First Century, APJAS. 54(1), 53-61.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Jung-Sub Lim</title>
-      <link>https://yatmos.github.io/eng/people/jungsublim/</link>
+      <link>http://localhost:1313/eng/people/jungsublim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/jungsublim/</guid>
-      <description>Research interests Cloud Microphysics Lagrangian Particle Model Large Eddy Simulation Education B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/jungsublim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cloud Microphysics&lt;/li&gt;&#xA;&lt;li&gt;Lagrangian Particle Model&lt;/li&gt;&#xA;&lt;li&gt;Large Eddy Simulation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Keunmin Lee</title>
-      <link>https://yatmos.github.io/eng/people/keunminlee/</link>
+      <link>http://localhost:1313/eng/people/keunminlee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/keunminlee/</guid>
-      <description>Research interests Measurement and analysis of carbon, water and energy fluxes at the land-atmosphere interface Urban Climate and Environment Atmospheric</description>
+      <guid>http://localhost:1313/eng/people/keunminlee/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Measurement and analysis of carbon, water and energy fluxes at the land-atmosphere interface&lt;/li&gt;&#xA;&lt;li&gt;Urban Climate and Environment&lt;/li&gt;&#xA;&lt;li&gt;Atmospheric Turbulence&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2013) in Atmospheric Sciences &amp;amp; Systems Biology, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2018) Group Achievement Award, KORea-United States Air Quality (KORUS-AQ), NASA&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lee, K., Hong, J. W., Kim, J., &amp;amp; Hong, J. (2021). Partitioning of net CO2 exchanges at the city-atmosphere interface into biotic and abiotic components. MethodsX, 8, 101231.&lt;/li&gt;&#xA;&lt;li&gt;Hong, J.-W. et al. (2020) Seasonal variations in surface energy and CO2 flux over a high-rise high-density residential urban area in East Asian monsoon region. International Journal of Climatology.&lt;/li&gt;&#xA;&lt;li&gt;Lee, J. et al. (2019) Ceilometer monitoring of boundary layer height in Seoul and its application to evaluate the dilution effect on air pollution. Boundary Layer Meteorology, 172, 435-455.&lt;/li&gt;&#xA;&lt;li&gt;Kent, C., K. Lee, H. C. Ward, J.-W. Hong, J. Hong, D. Gatey, and S. Grimmond (2018) Aerodynamic roughness variation with vegetation: Analysis in a suburban neighbourhood and a city park, Urban Ecosystems, doi:10.1007/s11252-017-0710-1.&lt;/li&gt;&#xA;&lt;li&gt;Lee, C., K. Han, J. Yeom, K. Lee, M. Seo, J. Hong, J.-W. Hong, K. Lee, J. Shin, I. Shim, J. Chun, and J.-L. Roujean (2018) Surface albedo from the geostationary Communication, Ocean and Meteorological Satellite (COMS)/Meteorological Imager (MI) observation system, GIScience &amp;amp; Remote Sensing, 28, 38-62.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Kyeongmin Gim</title>
-      <link>https://yatmos.github.io/eng/people/kyeongmingim/</link>
+      <link>http://localhost:1313/eng/people/kyeongmingim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/kyeongmingim/</guid>
-      <description>Research interests Measurement and analysis of energy fluxes at the land-atmosphere interface Education B.Sc (2021) in Atmospheric Sciences &amp;amp; Systems Biology, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/kyeongmingim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Measurement and analysis of energy fluxes at the land-atmosphere interface&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;B.Sc (2021) in Atmospheric Sciences &amp;amp; Systems Biology, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Kyoung-Min Kim</title>
-      <link>https://yatmos.github.io/eng/people/kyoungminkim/</link>
+      <link>http://localhost:1313/eng/people/kyoungminkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/kyoungminkim/</guid>
-      <description>Research interests Aerosol regional model simulation Dust model simulation Atmospheric chemistry Education B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/kyoungminkim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aerosol regional model simulation&lt;/li&gt;&#xA;&lt;li&gt;Dust model simulation&lt;/li&gt;&#xA;&lt;li&gt;Atmospheric chemistry&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Minseok Kim</title>
-      <link>https://yatmos.github.io/eng/people/minseokkim/</link>
+      <link>http://localhost:1313/eng/people/minseokkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/minseokkim/</guid>
-      <description>Research interests Aerosol retrieval from satellite remote sensing Education B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/minseokkim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aerosol retrieval from satellite remote sensing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Seunghwan Seo</title>
-      <link>https://yatmos.github.io/eng/people/seunghwanseo/</link>
+      <link>http://localhost:1313/eng/people/seunghwanseo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/seunghwanseo/</guid>
-      <description>Research interests Analyzing spatiotemporal characteristics of trace gases Constructing a priori vertical profile of trace gases Atmospheric chemistry Education B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/seunghwanseo/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Analyzing spatiotemporal characteristics of trace gases&lt;/li&gt;&#xA;&lt;li&gt;Constructing a priori vertical profile of trace gases&lt;/li&gt;&#xA;&lt;li&gt;Atmospheric chemistry&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>So-Jung Shin</title>
-      <link>https://yatmos.github.io/eng/people/sjshin/</link>
+      <link>http://localhost:1313/eng/people/sjshin/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/sjshin/</guid>
-      <description>Research interests Climate theory analysis Education M.Sc (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2014) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications Shin, S.</description>
+      <guid>http://localhost:1313/eng/people/sjshin/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Climate theory analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2014) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shin, S. J., &amp;amp; An, S. I. (2017). Interdecadal change in the relationship between the North Pacific Oscillation and the Pacific Meridional Mode and its impact on ENSO. Asia-Pacific Journal of Atmospheric Sciences, 1-14.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Sunggyun Na</title>
-      <link>https://yatmos.github.io/eng/people/nasunggyun/</link>
+      <link>http://localhost:1313/eng/people/nasunggyun/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/nasunggyun/</guid>
-      <description>Research interests Atmospheric chemistry Education B.Sc (2021) in Geography, Kyunghee university, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/nasunggyun/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric chemistry&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021)  in Geography, Kyunghee university, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Taegyung Lee</title>
-      <link>https://yatmos.github.io/eng/people/taegyung/</link>
+      <link>http://localhost:1313/eng/people/taegyung/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/taegyung/</guid>
-      <description>Research interests Spatiotemporal Variation of Surface Air Pollutants in the Korean Peninsula Relationship between Air Pollution and Meteorology Education M.Sc (2019) in Atmospheric Sciences, Chungnam National University, Daejeon, Korea B.</description>
+      <guid>http://localhost:1313/eng/people/taegyung/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spatiotemporal Variation of Surface Air Pollutants in the Korean Peninsula&lt;/li&gt;&#xA;&lt;li&gt;Relationship between Air Pollution and Meteorology&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Chungnam National University, Daejeon, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Astro &amp;amp; Space Science, Chungnam National University, Daejeon, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Yeseul Cho</title>
-      <link>https://yatmos.github.io/eng/people/yeseulcho/</link>
+      <link>http://localhost:1313/eng/people/yeseulcho/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/yeseulcho/</guid>
-      <description>Research interests Column-surface relationship Investigation of aircraft measurement campaign Estimation of ground-level PM2.5 using a machine learning method Education B.Sc (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/yeseulcho/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Column-surface relationship&lt;/li&gt;&#xA;&lt;li&gt;Investigation of aircraft measurement campaign&lt;/li&gt;&#xA;&lt;li&gt;Estimation of ground-level PM2.5 using a machine learning method&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Nari Im</title>
-      <link>https://yatmos.github.io/eng/people/imnari/</link>
+      <link>http://localhost:1313/eng/people/imnari/</link>
       <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/imnari/</guid>
-      <description>Research interests Heat Waves in Europe Climate Irreversibility Education B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.I.S (2020) in Science, Technology and Society, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/imnari/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Heat Waves in Europe&lt;/li&gt;&#xA;&lt;li&gt;Climate Irreversibility&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.I.S&lt;/strong&gt; (2020) in Science, Technology and Society, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Wonseok Cho</title>
-      <link>https://yatmos.github.io/eng/people/wonseokcho/</link>
+      <link>http://localhost:1313/eng/people/wonseokcho/</link>
       <pubDate>Fri, 13 Mar 2020 18:10:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/wonseokcho/</guid>
-      <description>Research interests Regional modeling land-atmosphere interaction Regional chemical transport modeling Education B.Sc (2019) in Atmospheric Sciences &amp;amp; Mechanical Engineering, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/wonseokcho/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Regional modeling land-atmosphere interaction&lt;/li&gt;&#xA;&lt;li&gt;Regional chemical transport modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences &amp;amp; Mechanical Engineering, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Ajin Cho</title>
-      <link>https://yatmos.github.io/eng/people/ajincho/</link>
+      <link>http://localhost:1313/eng/people/ajincho/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/ajincho/</guid>
-      <description>Research interests Air-sea interactions Air-sea coupled modeling Tropical cyclone Current Effect Education M.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.</description>
+      <guid>http://localhost:1313/eng/people/ajincho/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air-sea interactions&lt;/li&gt;&#xA;&lt;li&gt;Air-sea coupled modeling&lt;/li&gt;&#xA;&lt;li&gt;Tropical cyclone&lt;/li&gt;&#xA;&lt;li&gt;Current Effect&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Arim Yoon</title>
-      <link>https://yatmos.github.io/eng/people/arimyoon/</link>
+      <link>http://localhost:1313/eng/people/arimyoon/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/arimyoon/</guid>
-      <description>Research interests Land, atmosphere interaction Hydrology Education B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards (2020) Best Presentation in the 2020 fall conference of Korean Meteorological Society Publications </description>
+      <guid>http://localhost:1313/eng/people/arimyoon/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Land, atmosphere interaction&lt;/li&gt;&#xA;&lt;li&gt;Hydrology&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2020) Best Presentation in the 2020 fall conference of Korean Meteorological Society&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Cho-Hyun Rhee</title>
-      <link>https://yatmos.github.io/eng/people/chohyunrhee/</link>
+      <link>http://localhost:1313/eng/people/chohyunrhee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/chohyunrhee/</guid>
-      <description>Research interests Air-sea coupled modeling Education B.Sc (2018) Environmental Science and Ecological Engineering, Korea University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/chohyunrhee/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air-sea coupled modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2018) Environmental Science and Ecological Engineering, Korea University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>DhaHyun Ahn</title>
-      <link>https://yatmos.github.io/eng/people/dhahyunahn/</link>
+      <link>http://localhost:1313/eng/people/dhahyunahn/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/dhahyunahn/</guid>
-      <description>Research interests Polar atmospheric chemistry Climatology of trace gases using satellite measurements Education B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications Koo, J.</description>
+      <guid>http://localhost:1313/eng/people/dhahyunahn/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Polar atmospheric chemistry&lt;/li&gt;&#xA;&lt;li&gt;Climatology of trace gases using satellite measurements&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Koo, J. H., T. Choi, Y. Cho, H. Lee, J. Kim, D. H. Ahn, J. Kim, and Y. G. Lee (2017), The variation of aerosol optical depth over the polar stations of Korea, Part. Aerosol Res., 13(4), 141-150, doi:10.11629/jpaar.2017.12.30.141. (in Korean)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Dong-Hyuk Kim</title>
-      <link>https://yatmos.github.io/eng/people/donghyukkim/</link>
+      <link>http://localhost:1313/eng/people/donghyukkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/donghyukkim/</guid>
-      <description>Research interests Ocean circulation Air-sea interaction Education B.Sc (2020) Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/donghyukkim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ocean circulation&lt;/li&gt;&#xA;&lt;li&gt;Air-sea interaction&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2020) Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Han-Chang Ko</title>
-      <link>https://yatmos.github.io/eng/people/hanchangko/</link>
+      <link>http://localhost:1313/eng/people/hanchangko/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/hanchangko/</guid>
-      <description>Research interests Atmospheric Turbulence High Vertical Resolution Radiosonde Data Aviation Turbulence Education B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Ko et al.</description>
+      <guid>http://localhost:1313/eng/people/hanchangko/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Turbulence&lt;/li&gt;&#xA;&lt;li&gt;High Vertical Resolution Radiosonde Data&lt;/li&gt;&#xA;&lt;li&gt;Aviation Turbulence&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ko et al. (2019, JGR) is selected on EOS Editor&amp;rsquo;s Highlight. &lt;a href=&#34;https://eos.org/editor-highlights/radiosondes-measure-atmospheric-turbulence-over-north-america&#34;&gt;https://eos.org/editor-highlights/radiosondes-measure-atmospheric-turbulence-over-north-america&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ko, H.‐C., Chun, H.‐Y., Wilson, R., and Geller, M. A. (2019). Characteristics of atmospheric turbulence retrieved from high vertical‐resolution radiosonde data in the United States. Journal of Geophysical Research: Atmospheres, 124, 7553–7579. &lt;a href=&#34;https://doi.org/10.1029/2019JD030287&#34;&gt;https://doi.org/10.1029/2019JD030287&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Hyejin Kim</title>
-      <link>https://yatmos.github.io/eng/people/hyejinkim/</link>
+      <link>http://localhost:1313/eng/people/hyejinkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/hyejinkim/</guid>
-      <description>Research interests Atmospheric modeling Education M.Sc (2020) in Atmospheric Science, Yonsei University, Seoul, Korea B.Sc (2018) in Atmospheric Science, Kongju National University, Kongju, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/hyejinkim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2020) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2018) in Atmospheric Science, Kongju National University, Kongju, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Hyo-Jun Seunu</title>
-      <link>https://yatmos.github.io/eng/people/seunuhyojun-/</link>
+      <link>http://localhost:1313/eng/people/seunuhyojun-/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/seunuhyojun-/</guid>
-      <description>Research interests Air-sea Interaction Eddy Composite Analysis Southern Ocean Education B.Sc (2021) Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/seunuhyojun-/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air-sea Interaction&lt;/li&gt;&#xA;&lt;li&gt;Eddy Composite Analysis&lt;/li&gt;&#xA;&lt;li&gt;Southern Ocean&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Inpyo Park</title>
-      <link>https://yatmos.github.io/eng/people/inpyopark/</link>
+      <link>http://localhost:1313/eng/people/inpyopark/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/inpyopark/</guid>
-      <description>Research interests Atmospheric Modeling Education B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/inpyopark/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Jae Youp Kim</title>
-      <link>https://yatmos.github.io/eng/people/jaeyoupkim/</link>
+      <link>http://localhost:1313/eng/people/jaeyoupkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/jaeyoupkim/</guid>
-      <description>Research interests Atmospheric Modeling Parallel Processing Education M.Sc (2019) in Information Science, University of Science and Technology, Daejeon, Korea B.Sc (2017) in Atmospheric Science, Kongju National University, Kongju, Korea Research experience 2015-2019: Research Assistant, Korea Institute of Science and Technology Information Awards 2017.</description>
+      <guid>http://localhost:1313/eng/people/jaeyoupkim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Modeling&lt;/li&gt;&#xA;&lt;li&gt;Parallel Processing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2019) in Information Science, University of Science and Technology, Daejeon, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Science, Kongju National University, Kongju, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;research-experience&#34;&gt;Research experience&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2015-2019: Research Assistant, Korea Institute of Science and Technology Information&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2017.10. 4th 3D Scientific Visualization VAPOR Competition, encouraging prize (4th)&lt;/li&gt;&#xA;&lt;li&gt;2017.05. GPU Technology Conference 2017, Top 20 Poster Fast Forward Program&lt;/li&gt;&#xA;&lt;li&gt;2016.10. Korea Supercomputing Challenge 2016 out of undergraduate contest, best prize (2nd)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Jeong Yeon Kim</title>
-      <link>https://yatmos.github.io/eng/people/jeongyeonkim/</link>
+      <link>http://localhost:1313/eng/people/jeongyeonkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/jeongyeonkim/</guid>
-      <description>연구분야 Atmospheric Chemistry 학력 B.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수상내</description>
+      <guid>http://localhost:1313/eng/people/jeongyeonkim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Chemistry&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Joonsung Park</title>
-      <link>https://yatmos.github.io/eng/people/joonsungpark/</link>
+      <link>http://localhost:1313/eng/people/joonsungpark/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/joonsungpark/</guid>
-      <description>Research interests Atmospheric Modeling Education M.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications Shin, U, S.</description>
+      <guid>http://localhost:1313/eng/people/joonsungpark/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2021) in atmospheric sicences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shin, U, S.-H. Park, &lt;!-- raw HTML omitted --&gt;J.-S. Park&lt;!-- raw HTML omitted --&gt;, J.-H. Koo, C. Yoo, S. Kim, and J.-B. Lee (2021), Predictability of PM2.5 in Seoul based on atmospheric blocking forecasts using the NCEP global forecast system, Atmospheric Environment, 246, 118141, &lt;a href=&#34;https://doi.org/10.1016/j.atmosenv.2020.118141&#34;&gt;https://doi.org/10.1016/j.atmosenv.2020.118141&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Jooyeop Lee</title>
-      <link>https://yatmos.github.io/eng/people/jooyeoplee/</link>
+      <link>http://localhost:1313/eng/people/jooyeoplee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/jooyeoplee/</guid>
-      <description>Research interests Modeling of the land-atmosphere interface Land Surface Modeling Education M.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.</description>
+      <guid>http://localhost:1313/eng/people/jooyeoplee/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Modeling of the land-atmosphere interface&lt;/li&gt;&#xA;&lt;li&gt;Land Surface Modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Kyung-Min Kwak</title>
-      <link>https://yatmos.github.io/eng/people/kyungminkwak/</link>
+      <link>http://localhost:1313/eng/people/kyungminkwak/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/kyungminkwak/</guid>
-      <description>Research interests Air-sea coupled modeling Southern Ocean carbon exchange Education M.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2019) in Atmospheric and Environmental Sciences, Gangneung-Wonju National University, Gangneung, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/kyungminkwak/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air-sea coupled modeling&lt;/li&gt;&#xA;&lt;li&gt;Southern Ocean carbon exchange&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric and Environmental Sciences, Gangneung-Wonju National University, Gangneung, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Min Jae Lee</title>
-      <link>https://yatmos.github.io/eng/people/minjaelee/</link>
+      <link>http://localhost:1313/eng/people/minjaelee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/minjaelee/</guid>
-      <description>Research interests Atmospheric Modeling Education B.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/minjaelee/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in atmospheric sicences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Min-Gyung Seo</title>
-      <link>https://yatmos.github.io/eng/people/mingyungseo/</link>
+      <link>http://localhost:1313/eng/people/mingyungseo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/mingyungseo/</guid>
-      <description>Research interests Data assimilation Education M.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/mingyungseo/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Data assimilation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Minkwang Cho</title>
-      <link>https://yatmos.github.io/eng/people/minkwangcho/</link>
+      <link>http://localhost:1313/eng/people/minkwangcho/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/minkwangcho/</guid>
-      <description>Research interests Data assimilation Education M.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards (2018.</description>
+      <guid>http://localhost:1313/eng/people/minkwangcho/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Data assimilation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2018.10) Best Poster Award in fall conference of Korean Meteorological Society&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kim, H., H. M. Kim, M. K. Cho, J. Park, and D.-H. Kim, 2018:  Development of the aircraft CO©ü measurement data assimilation system to improve the estimation of surface CO©ü fluxes using an inverse modeling system, Atmosphere, 28(2), 1-9, doi:10.14191/Atmos.2018.28.2.1. (in Korean with English abstract)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Nahyun Lee</title>
-      <link>https://yatmos.github.io/eng/people/nahyunlee/</link>
+      <link>http://localhost:1313/eng/people/nahyunlee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/nahyunlee/</guid>
-      <description>Research interests Air Quality and Atmospheric Chemistry over East Asia Education B.Sc (2021) in Energy Resources Engineering, Kangwon National University, Chuncheon, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/nahyunlee/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air Quality and Atmospheric Chemistry over East Asia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in Energy Resources Engineering, Kangwon National University, Chuncheon, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Se Hyun Lee</title>
-      <link>https://yatmos.github.io/eng/people/sehyunlee/</link>
+      <link>http://localhost:1313/eng/people/sehyunlee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/sehyunlee/</guid>
-      <description>Research interests Atmospheric Modeling Education B.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/sehyunlee/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in atmospheric sicences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Soeun Park</title>
-      <link>https://yatmos.github.io/eng/people/soeunpark/</link>
+      <link>http://localhost:1313/eng/people/soeunpark/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/soeunpark/</guid>
-      <description>연구분야 Climate Irreversibility Climate Sensitivity 학력 B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수</description>
+      <guid>http://localhost:1313/eng/people/soeunpark/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Climate Irreversibility&lt;/li&gt;&#xA;&lt;li&gt;Climate Sensitivity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Songkang Kim</title>
-      <link>https://yatmos.github.io/eng/people/songkang/</link>
+      <link>http://localhost:1313/eng/people/songkang/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/songkang/</guid>
-      <description>Research interests Polar Research for Atmospheric Chemistry Education B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/songkang/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Polar Research for Atmospheric Chemistry&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Ye-Seul Lee</title>
-      <link>https://yatmos.github.io/eng/people/yeseullee/</link>
+      <link>http://localhost:1313/eng/people/yeseullee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/yeseullee/</guid>
-      <description>Research interests Wind Shear High Vertical Resolution Radiosonde Data Aviation Turbulence Education B.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/yeseullee/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wind Shear&lt;/li&gt;&#xA;&lt;li&gt;High Vertical Resolution Radiosonde Data&lt;/li&gt;&#xA;&lt;li&gt;Aviation Turbulence&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in atmospheric sicences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Yeonsu Park</title>
-      <link>https://yatmos.github.io/eng/people/yeonsupark/</link>
+      <link>http://localhost:1313/eng/people/yeonsupark/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/yeonsupark/</guid>
-      <description>연구분야 Atmospheric Chemistry 학력 B.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수상내</description>
+      <guid>http://localhost:1313/eng/people/yeonsupark/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Chemistry&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Yu Joo Jeong</title>
-      <link>https://yatmos.github.io/eng/people/yujoojeong/</link>
+      <link>http://localhost:1313/eng/people/yujoojeong/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/yujoojeong/</guid>
-      <description>연구분야 Atmospheric Chemistry 학력 B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수상내</description>
+      <guid>http://localhost:1313/eng/people/yujoojeong/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Chemistry&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Yu-Jin Kim</title>
-      <link>https://yatmos.github.io/eng/people/kimyujin-/</link>
+      <link>http://localhost:1313/eng/people/kimyujin-/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/kimyujin-/</guid>
-      <description>Research interests Air-sea Interaction Education B.Sc (2021) Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/kimyujin-/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air-sea Interaction&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Chanwoo Ahn</title>
-      <link>https://yatmos.github.io/eng/people/chanwooahn/</link>
+      <link>http://localhost:1313/eng/people/chanwooahn/</link>
       <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/chanwooahn/</guid>
-      <description>Research interests Aerosol in situ observation Education B.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/chanwooahn/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aerosol in situ observation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications &lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Donggun Oh</title>
-      <link>https://yatmos.github.io/eng/people/donggunoh/</link>
+      <link>http://localhost:1313/eng/people/donggunoh/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/donggunoh/</guid>
-      <description>Research interests Lagrangian Cloud Model Large Eddy Simulation Education B.Sc (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications Noh, Y.</description>
+      <guid>http://localhost:1313/eng/people/donggunoh/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lagrangian Cloud Model&lt;/li&gt;&#xA;&lt;li&gt;Large Eddy Simulation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Noh, Y., D. Oh, F. Hoffmann, and S. Raasch, &amp;ldquo;A Cloud Microphysics Parameterization for Shallow Cumulus Clouds Based on Lagrangian Cloud Model Simulations&amp;rdquo;, J. Atmos. Sci., 75, 4031-4047, 2018.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Donghyeock Kim</title>
-      <link>https://yatmos.github.io/eng/people/donghyeockkim/</link>
+      <link>http://localhost:1313/eng/people/donghyeockkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/donghyeockkim/</guid>
-      <description>Research interests Passive Microwave Remote Sensing of Precipitation Ocean surface emissivity Education B.Sc (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/donghyeockkim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Passive Microwave Remote Sensing of Precipitation&lt;/li&gt;&#xA;&lt;li&gt;Ocean surface emissivity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Inyeob La</title>
-      <link>https://yatmos.github.io/eng/people/inyeobla/</link>
+      <link>http://localhost:1313/eng/people/inyeobla/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/inyeobla/</guid>
-      <description>Research interests Observation of the fog processes Education B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications La, I.</description>
+      <guid>http://localhost:1313/eng/people/inyeobla/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Observation of the fog processes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;La, I., Yum, S. S., Gultepe, I., Yeom, J. M., Song, J. I., &amp;amp; Cha, J. W. (2020). Influence of Quasi-Periodic Oscillation of Atmospheric Variables on Radiation Fog over A Mountainous Region of Korea. Atmosphere, 11(3), 230. &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Jaemin Hong</title>
-      <link>https://yatmos.github.io/eng/people/jaeminhong/</link>
+      <link>http://localhost:1313/eng/people/jaeminhong/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/jaeminhong/</guid>
-      <description>Research interests Retrieval of atmospheric carbon dioxide density using satellite measurement Education B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/jaeminhong/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Retrieval of atmospheric carbon dioxide density using satellite measurement&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Jiseob Kim</title>
-      <link>https://yatmos.github.io/eng/people/jiseobkim/</link>
+      <link>http://localhost:1313/eng/people/jiseobkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/jiseobkim/</guid>
-      <description>Research interests Passive Microwave Remote Sensing of Precipitation Cloud Microphysics and Satellite Observation Education B.Sc (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards the grand prize at 4th 3D scientific visualization ‘VAPOR’ competition organized by KISTI (Korea Institute of Science and Technology Information).</description>
+      <guid>http://localhost:1313/eng/people/jiseobkim/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Passive Microwave Remote Sensing of Precipitation&lt;/li&gt;&#xA;&lt;li&gt;Cloud Microphysics and Satellite Observation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;the grand prize at 4th 3D scientific visualization ‘VAPOR’ competition organized by KISTI (Korea Institute of Science and Technology Information).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Jisu Choi</title>
-      <link>https://yatmos.github.io/eng/people/jisuchoi/</link>
+      <link>http://localhost:1313/eng/people/jisuchoi/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/jisuchoi/</guid>
-      <description>Research interests Atmospheric remote sensing Education B.Sc (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/jisuchoi/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric remote sensing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Jonghyuk Lee</title>
-      <link>https://yatmos.github.io/eng/people/jonghyuklee/</link>
+      <link>http://localhost:1313/eng/people/jonghyuklee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/jonghyuklee/</guid>
-      <description>Research interests Temperature/humidity profile retrieval using satellite data Satellite soil moisture validation Education B.Sc (2013) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/jonghyuklee/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Temperature/humidity profile retrieval using satellite data&lt;/li&gt;&#xA;&lt;li&gt;Satellite soil moisture validation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2013) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Pyosuk Seo</title>
-      <link>https://yatmos.github.io/eng/people/pyosukseo/</link>
+      <link>http://localhost:1313/eng/people/pyosukseo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/pyosukseo/</guid>
-      <description>Research interests Aerosol in situ observation Education B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/pyosukseo/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aerosol in situ observation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Seungwoo Sohn</title>
-      <link>https://yatmos.github.io/eng/people/seungwoosohn/</link>
+      <link>http://localhost:1313/eng/people/seungwoosohn/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/seungwoosohn/</guid>
-      <description>Research interests Passive Microwave Remote Sensing of Precipitation Education B.Sc (2017) in Mathematics, University of Colorado Boulder, CO, U.S.A. Awards Publications </description>
+      <guid>http://localhost:1313/eng/people/seungwoosohn/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Passive Microwave Remote Sensing of Precipitation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Mathematics, University of Colorado Boulder, CO, U.S.A.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>Yeonju Choi</title>
-      <link>https://yatmos.github.io/eng/people/yeonjuchoi/</link>
+      <link>http://localhost:1313/eng/people/yeonjuchoi/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://yatmos.github.io/eng/people/yeonjuchoi/</guid>
-      <description>Research interests Ocean Mixed Layer Large Eddy Simulation Atmospheric Boundary Layer Education B.Sc (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea Awards (2017) Outstanding Young Scientists Award in 9th International Workshop on Modeling the Ocean Publications Noh.</description>
+      <guid>http://localhost:1313/eng/people/yeonjuchoi/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ocean Mixed Layer&lt;/li&gt;&#xA;&lt;li&gt;Large Eddy Simulation&lt;/li&gt;&#xA;&lt;li&gt;Atmospheric Boundary Layer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2017) Outstanding Young Scientists Award in 9th International Workshop on Modeling the Ocean&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Noh. Y. and Y. Choi (2018), Comments on “Langmuir Turbulence and Surface Heating in the Ocean Surface Boundary Layer”, J. Phys. Oceanogr., 455-458.&lt;/li&gt;&#xA;&lt;li&gt;Ok. H., Y. Noh, and Y. Choi (2017), Influence of Pycnocline Smoothing and Subgrid-Scale Variability of Density Profiles on the Determination of Mixed Layer Depth, J. Atmos. Oceanic Technol., 34, 2083-2101.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>
