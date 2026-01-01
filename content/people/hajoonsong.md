@@ -33,6 +33,7 @@ weight = 10
 + Physical Oceanography
 
 #### Selected Publications
++ Lee, C., Song, H., Choi, Y., Cho, A., & Marshall, J. (2025). Observed multi-decadal increase in the surface ocean’s thermal inertia. Nature Climate Change, 1–7. https://doi.org/10.1038/s41558-025-02245-w or https://rdcu.be/d8QO9, Research Briefing: https://rdcu.be/d9Opj
 + Doddridge, E. W. , J. Marshall, H. Song, J-M Campin and M. Kelley (2021). Southern Ocean heat storage, reemergence, and winter sea ice decline induced by summertime winds. _Journal of Climate_ 34 (4), 1403-1415
 + Gupta, M., J. Marshall, H. Song, J-M Campin and G. Meneghello (2020). Sea‐Ice Melt Driven by Ice‐Ocean Stresses on the Mesoscale, _Journal of Geophysical Research: Oceans_ 125 (11), e2020JC016404
 + Wang, S., Kranz, S. A., Kelly, T. B., Song, H., Stukel, M. R., and Cassar, N. (2020). Lagrangian studies of net community production: The effect of diel and multiday nonsteady state factors and vertical fluxes on O<sub>2</sub>/Ar in a dynamic upwelling region. Journal of Geophysical Research: Biogeosciences, 125, e2019JG005569. https://doi.org/10.1029/2019JG005569
