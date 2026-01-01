@@ -38,12 +38,12 @@ weight = 4
 
 
 #### Awards
-+ 2025.10.       :       Humboldt Research Award, Alexander von Humboldt Foundation, Germany
-+ 2025. 8.       :       NASA Exceptional Public Service Medal, NASA HQ, Washington, D.C., USA
-+ 2024. 9.       :       Alumni Merit Award, College of Engineering, University of Michigan, Ann Arbor, MI, USA
-+ 2024, 2017     :       NASA Group Achievement Award, NASA, USA
-+ 2019. 4        :       Medal of Honor in Science and Technology, The President, Republic of Korea
-+ 2018. 1        :       Scientist of the Month, Korea Research Foundation(NRF), Ministry of Science, Technology and ICT
++ 2025-10       :       Humboldt Research Award, Alexander von Humboldt Foundation, Germany
++ 2025-08       :       NASA Exceptional Public Service Medal, NASA HQ, Washington, D.C., USA
++ 2024-09       :       Alumni Merit Award, College of Engineering, University of Michigan, Ann Arbor, MI, USA
++ 2024, 2017    :       NASA Group Achievement Award, NASA, USA
++ 2019-04       :       Medal of Honor in Science and Technology, The President, Republic of Korea
++ 2018-01       :       Scientist of the Month, Korea Research Foundation(NRF), Ministry of Science, Technology and ICT
 
 #### Courses
 + Atmospheric Environment
