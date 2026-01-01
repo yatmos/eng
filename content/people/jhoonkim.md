@@ -4,7 +4,7 @@ date = "2018-04-14T13:39:46+02:00"
 teams = ["Faculty"]
 banner = "img/people/jhoonkim2_small.jpg"
 email = "jkim2@yonsei.ac.kr"
-job = "Professor"
+job = "Yonsei Lee Youn Jae Endowed Professor"
 phone = "02-2123-5682"
 room = "Atmospheric Radiation Laboratory / Science Hall #545"
 web = "http://atrad.yonsei.ac.kr"
@@ -23,7 +23,7 @@ weight = 4
 + **B.S.** (1986)  Atmospheric Sciences, College of Natural Sci., Seoul National University, Seoul, Korea
 
 #### Professional Experience
-+ 2003 - present :   Yonsei Lee Youn Jae Fellow Professor of Atmospheric Sciences, Yonsei University, Seoul, Korea
++ 2003 - present :   Yonsei Lee Youn Jae Endowed Professor of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + 1991 - 2003    :   Principal Researcher, Senior Researcher, Korea Aerospace Research Institute (KARI)
 + 2021 - present :   Fellow, the Korea Academy of Science and Technology (KAST)
 + 2021 - 2022    :   Director, Particulate Matter Research Institute/Carbon Capture Research Institute, Samsung Advanced Institute of Technology (SAIT)
@@ -38,10 +38,11 @@ weight = 4
 
 
 #### Awards
-+ 2024. 9        :       Alumni Merit Award, College of Engineering, University of Michigan, Ann Arbor, MI, USA
-+ 2024, 2017     :       NASA Group Achievement Award, NASA
++ 2025.10.       :       Humboldt Research Award, Alexander von Humboldt Foundation, Germany
++ 2025. 8.       :       NASA Exceptional Public Service Medal, NASA HQ, Washington, D.C., USA
++ 2024. 9.       :       Alumni Merit Award, College of Engineering, University of Michigan, Ann Arbor, MI, USA
++ 2024, 2017     :       NASA Group Achievement Award, NASA, USA
 + 2019. 4        :       Medal of Honor in Science and Technology, The President, Republic of Korea
-+ 2018. 2        :       Contributed Professor Award, Yonsei University
 + 2018. 1        :       Scientist of the Month, Korea Research Foundation(NRF), Ministry of Science, Technology and ICT
 
 #### Courses
@@ -51,6 +52,7 @@ weight = 4
 + Remote Sensing of Environment
 
 #### Selected Publications
++ Ren, Y., Oxford, C.R., Zhang, D., ..., J. Kim et al. (2025) Black carbon emissions generally underestimated in the global south as revealed by globally distributed measurements. Nature Communications, 16, 7010. https://doi.org/10.1038/s41467-025-62468-5
 + Kim, J., and Coauthors, 2020: New Era of Air Quality Monitoring from Space: Geostationary Environment Monitoring Spectrometer (GEMS). BAMS, 101, E1–E22, https://doi.org/10.1175/BAMS-D-18-0013.1.
 + Kim, J., M. Kim, and M. Choi (2017), Monitoring Aerosol Properties in East Asia from Geostationary Orbit: GOCI, MI and GEMS, ‘Air Pollution in Eastern Asia: An Integrated Perspective’, Chapter 15, 323-334, ISSI Scientific Report Ser. Vol. 16, edited by Idir Bouarar, Xuemei Wang, and Guy Brasseur, Springer, 504pp, ISBN:978-3-319-59488-0, DOI: 10.1007/978-3-319-59489-7
 + Choi, M.J., Jhoon Kim, Jaehwa Lee, Mijin Kim, Young-Je Park, Brent Holben, Thomas F. Eck, Zhengqiang Li, Chul H. Song (2018), GOCI Yonsei aerosol retrieval version 2 aerosol products: improved algorithm description and error analysis with uncertainty estimation from 5-year validation over East Asia, Atmospheric Measurement Technique, 11, 385-408 10.5194/amt-11-385-2018
