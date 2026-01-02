@@ -65,6 +65,8 @@
                                     <p class="role">{{ .Params.job }}<br>&nbsp</p>
                                     {{ else if (eq .Params.job "Ph.D. student") }}
                                     <p class="role">{{ .Params.job }}<br>&nbsp</p>
+                                    {{ else if (eq .Params.job "Yonsei Lee Youn Jae Endowed Professor") }}
+                                    <p class="role">PROFESSOR<br>&nbsp</p>
                                     {{ else }}
                                     <p class="role">{{ .Params.job }}</p>
                                     {{ end }}
