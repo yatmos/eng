@@ -11,14 +11,14 @@ icon = "microphone"
 <br>
 
 #### July 27 (Monday) 16:00
-#### Science Building B102
+#### Science Building, Room B102
 
 ####  Dr. Minseok Kim (UNIST)
 
 <br>
 <br>
 
-<img src="/files/세미나포스터_김민석 박사님.png" width="95%">
+<img src="/eng/files/세미나포스터_김민석 박사님.png" width="95%">
 
 
 <br><br>
