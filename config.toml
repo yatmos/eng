@@ -226,3 +226,8 @@ publishDir = "docs"
     tag = "tags"
     category = "categories"
     team = "teams"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
