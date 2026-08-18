@@ -15,6 +15,8 @@ icon = "microphone"
 
 ####  Dr. Minseok Kim (UNIST)
 
+<!--more-->
+
 <br>
 <br>
 
