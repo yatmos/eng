@@ -10,7 +10,7 @@ icon = "microphone"
 
 <br>
 
-#### July 27 (Monday) 16:00
+#### July 27, 2026 (Monday) 16:00
 #### Science Building, Room B102
 
 ####  Dr. Minseok Kim (UNIST)
