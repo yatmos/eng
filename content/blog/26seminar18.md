@@ -13,7 +13,7 @@ icon = "microphone"
 #### September 1, 2026 (Tuesday) 16:00
 #### Science Building, Room B101
 
-####  Dr. Minseok Kim (UNIST)
+####  Dr. Hyo-Jeong Kim (Yonsei University)
 
 <!--more-->
 
