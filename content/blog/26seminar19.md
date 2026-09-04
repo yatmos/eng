@@ -20,7 +20,7 @@ icon = "microphone"
 <br>
 <br>
 
-<img src="/eng/files/세미나포스터_김효정박사님.png" width="95%">
+<img src="/eng/files/세미나포스터_서소라박사님.png" width="95%">
 
 
 <br><br>
