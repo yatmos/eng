@@ -24,4 +24,4 @@ weight = 11
 + (2014) Excellenct paper publication Award in the Korean Society of Remote Sensing - Inferring atmospheric optical property during nighttime by utilizing the pictures of the moon from digital camera
 
 #### Publications
-Kim and Jeong (2016), Derivations of Surface Solar Radiation from Polar Orbiting Satellite Observations, Korean Journal of Remote Sensing, Vol.32, No.3, 2016, pp.201~220
++ Kim and Jeong (2016), Derivations of Surface Solar Radiation from Polar Orbiting Satellite Observations, Korean Journal of Remote Sensing, Vol.32, No.3, 2016, pp.201~220
