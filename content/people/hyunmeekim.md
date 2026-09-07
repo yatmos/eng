@@ -8,7 +8,7 @@ job = "Professor"
 phone = "02-2123-5683"
 room = "Atmospheric Predictability and Data Assimilation Laboratory / Science Hall #541"
 web = "http://web.yonsei.ac.kr/apdal"
-weight = 5
+weight = 3
 +++
 
 #### Research interests
@@ -33,12 +33,30 @@ weight = 5
 
 #### Courses
 + Data Assimilation
++ Atmospheric Prediction
 + Meteorological Disasters
 + Environment and Atmosphere
 + Atmospheric Dynamics Ⅰ, Atmospheric Dynamics Ⅱ
 + Predictability Theory
 
 #### Selected Publications
+
++ Cho, Y., H. M. Kim, and M.-G. Seo, 2025: A comparison of CO2 emissions from the national greenhouse gases inventory report with CO2 emissions from the global inverse models and the regional WRF-Chem in the Korean Peninsula. Mitigation and Adaptation Strategies for Global Change, 30, 1-24, https://doi.org/10.1007/s11027-024-10195-5.
++ Kim, D.-H., and H. M. Kim, 2024: Adjoint-based observation impact on meteorological forecast errors in the Arctic. Quarterly Journal of the Royal Meteorological Society, 150, 5403-5421, https://doi.org/10.1002/qj.4876.
++ Seo, M.-G., H. M. Kim, and D.-H. Kim, 2024: High-resolution atmospheric CO2 concentration data simulated in WRF-Chem over East Asia for 10 years. Geoscience Data Journal, 11, 1024-1043, https://doi.org/10.1002/gdj3.273.
++ Kim, D.-H., and H. M. Kim, 2024: Effect of microphysics scheme and data assimilation on hydrometer and radiative flux simulations in the Arctic. Royal Society Open Science, 11, 240594, https://doi.org/10.1098/rsos.240594.
++ Cho, Y., H. M. Kim, E.-G. Yang, Y. Lee, J.-B. Lee, and S. Ha, 2024: Effect of meteorological data assimilation on regional air quality forecasts over the Korean Peninsula. Journal of Meteorological Research, 38, 1-23. https://doi.org/10.1007/s13351-024-3152-8.
++ Ha, S., R. Kumar, G. G. Pfister, Y. Lee, D. Lee, H. M. Kim, and Y.-H. Ryu, 2024: Chemical data assimilation with aqueous chemistry in WRF-Chem coupled with WRFDA (V4.4.1). Journal of Advances in Modeling Earth Systems, 16, e2023MS003928, https://doi.org/10.1029/2023MS003928.
++ Seo, M.-G., H. M. Kim, and D.-H. Kim, 2024: Effect of atmospheric conditions and VPRM parameters on high-resolution regional CO2 simulations over East Asia. Theoretical and Applied Climatology, 155, 859-877, https://doi.org/10.1007/s00704-023-04663-2.
++ Kim, D.-H., and H. M. Kim, 2024: Design of buoy observation network over the Arctic Ocean. Cold Regions Science and Technology, 218, 104087, https://doi.org/10.1016/j.coldregions.2023.104087.
++ Kim, D.-H., and H. M. Kim, 2023: Evaluation of observation impact on the meteorological forecasts associated with heat wave in 2018 over East Asia using observing system experiments. Heliyon, 9, e23064, https://doi.org/10.1016/j.heliyon.2023.e23064.
++ Seo, M.-G., and H. M. Kim, 2023: Effect of meteorological data assimilation using 3DVAR on high-resolution simulations of atmospheric CO2 concentrations in East Asia. Atmospheric Pollution Research, 14, 101759, https://doi.org/10.1016/j.apr.2023.101759.
++ Terao T., S. Kanae, H. Fujinami, S. Das, A. P. Dimri, S. Dutta, K. Fujita, A. Fukushima, K.-J. Ha, M. Hirose, J. Hong, H. Kamimera, R. B. Kayastha, M. Kiguchi, K. Kikuchi, H. M. Kim, A. Kitoh, H. Kubota, W. Ma, Y. Ma, M. Mujumdar, M. I. Nodzu, T. Sato, Z. Su, S. Sugimoto, H. G. Takahashi, Y. Takaya, S. Wang, K. Yang, S. Yokoi, and J. Matsumoto, 2023: AsiaPEX: Challenges and Prospects in Asian Precipitation Research. Bulletin of the American Meteorological Society.
++ Kim, D.-H., and H. M. Kim, 2022: Deep learning for downward longwave radiative flux forecasts in the Arctic. Expert Systems With Applications, 210, 118547, https://doi.org/10.1016/j.eswa.2022.118547.
++ Yang, E.-G., H. M. Kim, and D.-H. Kim, 2022: Development of East Asia Regional Reanalysis based on advanced hybrid gain data assimilation method and evaluation with E3DVAR, ERA-5, and ERA-Interim reanalysis. Earth System Science Data, 14, 2109-2127, https://doi.org/10.5194/essd-14-2109-2022.
++ Kim, D.-H., and H. M. Kim, 2022: Effect of data assimilation in the Polar WRF with 3DVAR on the prediction of radiation, heat flux, cloud, and near surface atmospheric variables over Svalbard. Atmospheric Research, 272, 106155, https://doi.org/10.1016/j.atmosres.2022.106155.
++ Cho, M., and H. M. Kim, 2022: Effect of assimilating CO2 observations in the Korean Peninsula on the inverse modeling to estimate surface CO2 flux over Asia. PLoS ONE, 17, e0263925. https://doi.org/10.1371/journal.pone.0263925.
++ Kim, H. M., and D.-H. Kim, 2021: Effect of boundary conditions on adjoint-based forecast sensitivity observation impact in a regional model. Journal of Atmospheric and Oceanic Technology, 38, 1233-1247, doi:10.1175/JTECH-D-20-0040.1.
 + Yang, E.-G., and H. M. Kim, 2021: A comparison of variational, ensemble-based, and hybrid data assimilation methods over East Asia for two one-month periods, Atmospheric Research, 249,105257, https://doi.org/10.1016/j.atmosres.2020.105257.
 + Park, J., and H. M. Kim, 2020: Design and evaluation of CO₂ observation network to optimize surface CO₂ fluxes in Asia using observation system simulation experiments, Atmospheric Chemistry and Physics, 20, 5175-5195, https://doi.org/10.5194/acp-20-5175-2020.
 + Kim, D.-H., H. M. Kim, and J. Hong, 2019: Evaluation of wind forecasts over Svalbard using the high-resolution Polar WRF with 3DVAR, Arctic, Antarctic, and Alpine Research, 51, 471-489, doi:10.1080/ 15230430.2019.1676939.

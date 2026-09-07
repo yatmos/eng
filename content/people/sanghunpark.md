@@ -7,8 +7,8 @@ email = "pshun@yonsei.ac.kr"
 job = "Associate Professor"
 phone = "02-2123-5686"
 room = "Laboratory for Atmospheric Modeling Research / Science Hall #537"
-web = ""
-weight = 9
+web = "http://lamor.yonsei.ac.kr/"
+weight = 7
 +++
 
 #### Research interests

@@ -8,7 +8,7 @@ job = "Professor"
 phone = "02-2123-5685"
 room = "Atmospheric Radiation Laboratory / Science Hall 546"
 web = "http://arsl.yonsei.ac.kr"
-weight = 7
+weight = 5
 +++
 
 #### Research interests

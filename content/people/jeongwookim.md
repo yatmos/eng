@@ -7,11 +7,12 @@ email = "j-wkim@yonsei.ac.kr "
 job = "Professor Emeritus (1982.8~2003.2)"
 phone = "02-2123-2683"
 room = "Science Hall #537"
-weight = 13
+weight = 6
 +++
 
 #### Research interests
 + Atmospheric Dynamics
++ Climate Dynamics
 
 #### Education
 + **Ph.D.** (1973) Meteorology, University of California, Los Angeles, USA

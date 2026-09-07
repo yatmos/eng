@@ -1,14 +1,14 @@
 +++
 title = "Seongsoo Yum"
 date = "2018-04-15T13:39:46+02:00"
-teams = ["Faculty"]
+teams = ["Retired"]
 banner = "img/people/seongsooyum.jpg"
 email = "ssyum@yonsei.ac.kr"
-job = "Professor"
+job = "Professor Emeritus (2001~2025)"
 phone = "02-2123-5681"
 room = "Cloud Physics Laboratory / Science Hall #547"
 web = "http://cloud.yonsei.ac.kr"
-weight = 3
+weight = 1
 +++
 
 #### Research interests
@@ -31,6 +31,9 @@ weight = 3
 + Statistical Analysis in Meteorology
 + Cloud and Precipitation Processes
 + Meteorological Data Processing
+
+#### Tenure
++ 2001~2025
 
 #### Selected Publications
 + Kim, A. H., Yum, S. S., Chang, D. Y., & Park, M. (2020). Optimization of Sulfate Aerosol Hygroscopicity Parameter in WRF-Chem version (3.8.1). Geoscientific Model Development Discussions, 1-27.
