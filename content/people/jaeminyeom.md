@@ -12,11 +12,11 @@ web = ""
 +++
 
 #### Research interests
-+ 구름물리
-+ 구름 미세물리 과정
-+ 에어로졸-구름 상호작용
-+ 구름관측 및 모형
-+ 구름챔버 실험
++ Cloud Physics
++ Cloud microphysical processes
++ Aerosol-cloud interactions
++ Cloud observation and modeling
++ Cloud chamber experiment
 
 #### Education
 + Ph.D. (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea
@@ -27,10 +27,10 @@ web = ""
 + 2020.3 – 2022.8: Postdoctoral Researcher, Michigan Technological University, Houghton, MI, United States
 
 #### Courses
-+ 대기물리
-+ 기상통계분석
-+ 구름 및 강수과정
-+ 기상자료처리법
++ Atmospheric Physics
++ Statistical Analysis in Meteorology
++ Cloud and Precipitation Processes
++ Meteorological Data Processing
 
 #### Selected Publications
 + Shaw, R.A., Chandrakar, K.K., Krueger, S., Ren, Y., Yang, F, and Yeom, J.M., 2026. Unifying Observations, Simulations, and Theory for Drizzle Size Distribution Tails. Geophys. Res. Lett., 53(16), e2026GL125405. https://doi.org/10.1029/2026GL125405.
