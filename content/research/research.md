@@ -27,7 +27,7 @@ The primary focus of the Atmospheric Radiation Laboratory (ARL) is to advance th
 
 <br>
 
-#### Atmospheric Predictability & Data Assimilation Laboratory [(http://web.yonsei.ac.kr/apdal)](http://web.yonsei.ac.kr/apdal)
+#### Atmospheric Predictability & Data Assimilation Laboratory [(http://apdal.yonsei.ac.kr/)](http://apdal.yonsei.ac.kr/)
 In APDAL, the inherent predictability of the atmosphere, along with numerical models and data assimilation systems, are studied to improve the quality of numerical weather prediction. In addition, as a laboratory covering the overall process of numerical prediction, we conduct prediction and diagnostic research using numerical modeling, data assimilation, and deep learning in various fields of atmospheric science, such as mid-latitude and polar weather, the carbon cycle, and aerosols.
 
 <br>
