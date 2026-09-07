@@ -15,7 +15,7 @@ weight = 15
 + Aerosol long range transport
 
 #### Education
-+ **B.Sc**(2025) in Atmospheric Sciences, Yonsei University
++ **B.Sc** (2025) in Atmospheric Sciences, Yonsei University
 
 #### Awards
 
