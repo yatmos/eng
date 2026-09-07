@@ -7,7 +7,7 @@ job = "Professor, retired (1995-2011)"
 email = "joon@snu.ac.kr"
 room = "Department of Landscape Architecture and Rural System Engineering"
 web = "http://cssl.snu.ac.kr"
-weight = 15
+weight = 5
 +++
 
 #### Education

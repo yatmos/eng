@@ -6,9 +6,9 @@ banner = "img/people/hikucho.jpg"
 email = "chk@yonsei.ac.kr"
 job = "Professor Emeritus (1971.2~1999.2)"
 phone = "02-2123-2574"
-room = "Science Hall #701"
+room = "Ozone Laboratory / Science Hall #701"
 web = "http://atrad.yonsei.ac.kr/"
-weight = 12
+weight = 8
 +++
 
 #### Research interests

@@ -7,7 +7,7 @@ job = "Professor, retired (2000-2017)"
 email = "songyouhong@gmail.com"
 room = "System Director, Korea Institute of Atmospheric Prediction"
 web = "https://www.kiaps.org/about/greeting.do"
-weight = 15
+weight = 3
 +++
 
 #### Research interests

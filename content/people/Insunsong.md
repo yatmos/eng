@@ -8,7 +8,7 @@ job = "Associate Professor"
 phone = "02-2123-5650"
 room = "Science Hall #548"
 web = "https://mapl.yonsei.ac.kr"
-weight = 12
+weight = 10
 +++
 
 #### Research interests
@@ -22,17 +22,32 @@ weight = 12
 + **B.S.** (1997)  Department of Astro and Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Research Experience
++ 2021-Current: Associate Professor, Yonsei University
 + 2015-2021: Postdoctoral scientist, Korea Polar Research Institute
 + 2011-2015: Korea Institute of Atmospheric Prediction Systems
 + 2007-2011: Global Modeling and Assimilation Office, NASA GSFC
 + 2005-2007: Institute of National Science, Yonsei University
 
 #### Courses
++ Sun and Climate
++ Introduction to Atmospheric General Circulation
 + Computer (Fortran) programming 
 + Upper atmosphere
 + Applied mathematical methods in atmospheric sciences
++ Fluid Instability Theory
 
 #### Selected Publications
+
++ Lee, W., **Song, I. S.**, Shim, J. S., Liu, G., & Jee, G. (2024). The impact of lower atmosphere forecast uncertainties on WACCM‐X prediction of ionosphere‐thermosphere system during geomagnetic storms. Space Weather, 22(12), e2024SW004137.
++ Yoo, J. H., Chun, H. Y., & **Song, I. S.** (2024). In-Situ Generation of Planetary Waves in the Mesosphere by Zonally Asymmetric Gravity Wave Drag: A Revisit. Journal of the Atmospheric Sciences.(accepted)
++ Lee, W., **Song, I. S.**, Song, B. G., & Kim, Y. H. (2024). Quasi-10 d wave activity in the southern high-latitude mesosphere and lower thermosphere (MLT) region and its relation to large-scale instability and gravity wave drag. Atmospheric Chemistry and Physics, 24(6), 3559-3575.
++ Song, B. G., & **Song, I. S.** (2024). Coupling of long‐term trends of zonal winds between the mesopause and stratosphere in southern winter. Geophysical Research Letters, 51(4), e2023GL107014.
++ Shim, J. S., **Song, I. S.**, Jee, G., Kwak, Y. S., Tsagouri, I., Goncharenko, L., ... & Habarulema, J. B. (2023). Validation of Ionospheric Specifications During Geomagnetic Storms: TEC and foF2 During the 2013 March Storm Event‐II. Space Weather, 21(5), e2022SW003388.
++ Song, B. G., Chun, H. Y., **Song, I. S.**, Lee, C., Kim, J. H., & Jee, G. (2023). Long‐term characteristics of the meteor radar winds observed at King Sejong station, Antarctica. Journal of Geophysical Research: Atmospheres, 128(1), e2022JD037190.
++ Lee, J., Claussen, M., Kim, J., Hong, J. W., **Song, I. S.**, & Hong, J. (2022). Effect of nitrogen limitation and soil biophysics on Holocene greening of the Sahara. Climate of the Past, 18(2), 313-326.
++ Kam, H., **Song, I. S.**, Kim, J. H., Kim, Y. H., Song, B. G., Nakamura, T., ... & Kwak, Y. S. (2021). Mesospheric Short‐Period Gravity Waves in the Antarctic Peninsula Observed in All‐Sky Airglow Images and Their Possible Source Locations. Journal of Geophysical Research: Atmospheres, 126(24), e2021JD035842.
++ Lee, W., **Song, I. S.**, Kim, J. H., Kim, Y. H., Jeong, S. H., Eswaraiah, S., & Murphy, D. J. (2021). The observation and SD‐WACCM simulation of planetary wave activity in the middle atmosphere during the 2019 southern hemispheric sudden stratospheric warming. Journal of Geophysical Research: Space Physics, 126(6), e2020JA029094.
++ Song, B. G., **Song, I. S.**, Chun, H. Y., Lee, C., Kam, H., Kim, Y. H., ... & Mitchell, N. J. (2021). Activities of small‐scale gravity waves in the upper mesosphere observed from meteor radar at King Sejong Station, Antarctica (62.22° S, 58.78° W) and their potential sources. Journal of Geophysical Research: Atmospheres, 126(10), e2021JD034528.
 + Lee, J.-H., Jee, G., Kwak, Y.-S., Hwang, H., Seppala, A., **Song, I.-S.**, Turunen, E., & Lee, D.-Y. (2021). Polar middle atmospheric responses to medium energy electron (MEE) using numerical model simulations. Atmosphere (Accepted)
 + Song, B.-G., Chun, H.-Y., & **Song, I.-S.** (2020). Role of gravity waves in a vortex-split sudden stratospheric warming in January 2009. Journal of the Atmospheric Sciences, 77(10), 3321-3342. https://doi.org/10.1175/JAS-D-20-0039.1
 + **Song, I.-S.**, Lee, C., Chun, H.-Y., Kim, J.-H., Jee, G., Song, B.-G., & Bacmeister, J. T. (2020): Propagation of gravity waves and its effects on pseudomomentum flux in a sudden stratospheric warming event. Atmospheric Chemistry and Physics, 20(12), 7617-7644. https://doi.org/10.5194/acp-20-7617-2020

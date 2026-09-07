@@ -7,7 +7,7 @@ email = ""
 job = "Professor Emeritus (1979.8~2001.2)"
 phone = ""
 room = ""
-weight = 14
+weight = 7
 +++
 
 #### Research interests
