@@ -1,5 +1,5 @@
 +++
-title = "siwankim"
+title = "Si-Wan Kim"
 date = "2026-04-01"
 teams = ["Researchers"]
 banner = "img/people/김시완.jpg"
