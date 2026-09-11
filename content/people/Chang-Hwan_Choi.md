@@ -8,7 +8,7 @@ job = "Ph.D. student"
 phone = "02-2123-7619"
 room = "Boundary Layer Meteorology and Environment Laboratory / Science Hall 534"
 web = "https://blme.yonsei.ac.kr/"
-weight = 63
+weight = 62
 +++
 
 #### Research interests

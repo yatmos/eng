@@ -1,14 +1,14 @@
 +++
 title = "Taegyung Lee"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["Students"]
+teams = ["Researchers"]
 banner = "img/people/taegyung.jpg"
 email = "taegyung@yonsei.ac.kr"
 job = "Ph.D. student"
 phone = "02-2123-7624"
 room = "Atmospheric Chemistry Laboratory / Science Hall 535"
 web = "https://atmchem.yonsei.ac.kr"
-weight = 62
+weight = 24
 +++
 
 #### Research interests
