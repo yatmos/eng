@@ -8,7 +8,7 @@ job = "Postdoctoral Researcher"
 phone = "02-2123-4815"
 room = "Atmospheric Predictability and Data Assimilation Laboratory / Science Hall 530B"
 web = "https://apdal.yonsei.ac.kr"
-weight = 25
+weight = 26
 +++
 
 #### Research interests

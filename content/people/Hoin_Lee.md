@@ -3,21 +3,21 @@ title = "Hoin Lee"
 date = "2026-04-01"
 teams = ["Researchers"]
 banner = "img/people/Hoin_Lee.jpg"
-email = "@yonsei.ac.kr"
+email = "hoinlee@yonsei.ac.kr"
 job = "Postdoctoral Researcher"
 phone = "02-2123-7619"
 room = "Boundary Layer Meteorology and Environment Laboratory / Science Hall 534"
 web = "https://blme.yonsei.ac.kr/"
-weight = 24
+weight = 25
 +++
 
 #### Research interests
 + Atmospheric mercury cycling and stable isotope analysis
- + Atmospheric chemistry modeling
++ Atmospheric chemistry modeling
 
 #### Education
 + **Ph.D** (2026) in Environmental Science and Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Korea
- + **B.Sc** (2019) in Environmental Atmospheric Sciences, Pusan National University, Busan, Korea
++ **B.Sc** (2019) in Environmental Atmospheric Sciences, Pusan National University, Busan, Korea
 
 #### Awards
 

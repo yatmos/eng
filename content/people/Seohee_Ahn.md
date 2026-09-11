@@ -6,15 +6,13 @@ banner = "img/people/안서희.jpg"
 email = "shahn11@yonsei.ac.kr"
 job = "Postdoctoral Researcher"
 phone = "02-2123-7619"
-room = "Boundary Layer Meteorology and Environment Laboratory / Science Hall 534"
+room = "Boundary Layer Meteorology and Environment Laboratory / Science Hall 522B"
 web = "https://blme.yonsei.ac.kr/"
 weight = 21
 +++
 
 #### Research interests
-+ Air quality modeling and Air pollutants
- + meteorology
- + climate interactions
++ Air quality modeling and Air pollutants/meteorology/climate interactions
 
 #### Education
 + **Ph.D.** (2024) in Polar Science (Atmospheric Science), University of Science and Technology (UST), Korea Polar Research Institute Campus, Incheon, Korea

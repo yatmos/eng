@@ -3,12 +3,12 @@ title = "Hyeon-Ui Choe"
 date = "2026-04-02"
 teams = ["Students"]
 banner = "img/people/최현의_박사과정.jpg"
-email = "Chui733@yonsei.ac.kr/"
+email = "huchoe@yonsei.ac.kr/"
 job = "Ph.D. student"
 phone = ""
 room = "Climate Theory Laboratory / Science Hall 536A"
 web = "https://ysctl.yonsei.ac.kr/"
-weight = 64
+weight = 63
 +++
 
 #### Research interests
