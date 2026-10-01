@@ -68,7 +68,6 @@ Our laboratory basically performs the analyses about the spatiotemporal variatio
 <br>
 
 #### Mathematical Atmospheric Physics Laboratory [(https://mapl.yonsei.ac.kr)](https://mapl.yonsei.ac.kr)
-
 We carry out interdisciplinary (atmospheric sciences, mathematics and
 physics) theoretical and numerical modeling studies to understand
 characteristics of motions and chemical phenomena in the whole
@@ -81,7 +80,7 @@ energetic particles on the climate variability near the ground.
 <br>
 
 #### Boundary-Layer Meteorology and Environment Laboratory [(https://blme.yonsei.ac.kr)](https://blme.yonsei.ac.kr)
-
+We study the processes governing meteorological phenomena and the formation and evolution of air pollution in the atmospheric boundary layer, and aim to improve prediction accuracy. We integrate land surface modeling, including urban canopy and building energy models, with turbulence modeling, mesoscale meteorological modeling, and atmospheric chemistry and transport modeling to study atmospheric phenomena at urban and regional scales. Using observational data, theory, high-resolution numerical simulations, and artificial intelligence and machine learning, we seek to understand the interactions among meteorology, air quality, and energy, and to propose strategies for developing sustainable cities and addressing climate change.
 
 <br>
 
