@@ -84,7 +84,7 @@ We study the processes governing meteorological phenomena and the formation and 
 
 <br>
 
-#### Cloud Physics Laboratory [(http://cloud.yonsei.ac.kr)](http://cloud.yonsei.ac.kr)
+#### Cloud Physics Laboratory [(https://sites.google.com/view/cloud-physics-lab-yonsei)](https://sites.google.com/view/cloud-physics-lab-yonsei)
 In the Cloud Physics Laboratory, we make measurements of physical/chemical properties of atmospheric aerosols, cloud condensation nuclei (CCN) distributions, cloud droplet and precipitation drop distributions. Also investigated are the implications of these properties on cloud and precipitation developments and aerosol direct and indirect effects using a convective cloud model, an LES cloud model and a mesoscale model. Main areas of interest include warm rain initiation problem, aerosol direct and indirect effects, CCN-precipitation efficiency relationships, cloud seeding, and fog microphysical processes.
 
 
