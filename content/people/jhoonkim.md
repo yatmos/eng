@@ -23,11 +23,10 @@ weight = 2
 
 #### Professional Experience
 + 2003 - present :   Professor, Department of Atmospheric Sciences, Yonsei University, Seoul<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yonsei Lee Youn Jae Endowed Professor (2023-2026)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yonsei Lee Youn Jae Endowed Professor (2023-2026)
 + 1991 - 2003    :   Principal Researcher, Korea Aerospace Research Institute (KARI)
 + 2021 - present :   Fellow, the Korea Academy of Science and Technology (KAST)
 + 2023 - present :   Associate Member, National Academy of Engineering of Korea (NAEK)
-
 + 2026 - 2027    :   Visiting Professor, Max Planck Institute, Germany
 + 2021 - 2022    :   Director, Particulate Matter Research Institute, Samsung Advanced Institute of Tech (SAIT)
 + 2017 - 2024    :   Commissioner, IRC (International Radiation Commission)
@@ -41,12 +40,12 @@ weight = 2
 
 
 #### Awards
-+ 2025.10.       :       Humboldt Research Award, Germany
-+ 2025. 8.       :       NASA Exceptional Public Service Medal, NASA HQ, USA
-+ 2024. 9.       :       Alumni Merit Award, University of Michigan, Ann Arbor, MI, USA
-+ 2025, 2024, 2017:      NASA Group Achievement Award, NASA, USA
-+ 2019. 4        :       Medal of Honor in Science and Technology, The President, Republic of Korea
-+ 2018. 1        :       Scientist of the Month, National Research Foundation(NRF), Ministry of Science, Technology and ICT
++ 2025.10. : Humboldt Research Award, Germany
++ 2025. 8. : NASA Exceptional Public Service Medal, NASA HQ, USA
++ 2024. 9. : Alumni Merit Award, University of Michigan, Ann Arbor, MI, USA
++ 2025, 2024, 2017 : NASA Group Achievement Award, NASA, USA
++ 2019. 4. : Medal of Honor in Science and Technology, The President, Republic of Korea
++ 2018. 1. : Scientist of the Month, National Research Foundation(NRF), Ministry of Science, Technology and ICT
 
 #### Courses
 + Atmospheric Environment
