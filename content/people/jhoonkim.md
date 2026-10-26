@@ -23,7 +23,7 @@ weight = 2
 
 #### Professional Experience
 + 2003 - present :   Professor, Department of Atmospheric Sciences, Yonsei University, Seoul<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yonsei Lee Youn Jae Endowed Professor (2023-2026)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yonsei Lee Youn Jae Endowed Professor (2023-2026)
 + 1991 - 2003    :   Principal Researcher, Korea Aerospace Research Institute (KARI)
 + 2021 - present :   Fellow, the Korea Academy of Science and Technology (KAST)
 + 2023 - present :   Associate Member, National Academy of Engineering of Korea (NAEK)
@@ -31,7 +31,7 @@ weight = 2
 + 2021 - 2022    :   Director, Particulate Matter Research Institute, Samsung Advanced Institute of Tech (SAIT)
 + 2017 - 2024    :   Commissioner, IRC (International Radiation Commission)
 + 2017 - 2024    :   Member, Science Advisory Group (SAG), World Meteorological Organization (WMO)
-+ 2016 - 2017    :   Visiting Scientist, Atmospheric Measurement Group, Harvard | Smithonian Center
++ 2016 - 2017    :   Visiting Scientist, Atmospheric Measurement Group, Harvard | Smithsonian Center
 + 2014 - 2017    :   Member, WHO Global Platform for Air Quality and Health
 + 2012 - present :   P.I., GEMS (Geostationary Environment Monitoring Spectrometer)
 + 2012 - 2020    :   Commissioner, International Ozone Commission (IO3C)
